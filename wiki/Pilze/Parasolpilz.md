@@ -7,4 +7,4 @@ Parasolpilz
 - [wikipedia.de](https://de.wikipedia.org/wiki/Gemeiner_Riesenschirmling)
 
 # Fundort
-<iframe src="/map.html#51.651262,10.105047" style="width: 100% !important; height: 400px !important;"></iframe>
+<iframe src="/lunibarium/map.html#51.651262,10.105047" style="width: 100% !important; height: 400px !important;"></iframe>
