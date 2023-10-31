@@ -1,6 +1,9 @@
 Parasolpilz
 ===
 
+# Rezepte
+- [Spaghetti mit Parasolpilz und Lacktrichterlingen](lunibarium/index.html#!rezepte.md#Spaghetti_mit_Parasolpilz_und_Lacktrichterlingen)
+
 # Weiterführende Infos
 - Dähncke, R. M. (2004), S. 521
 - [123pilzsuche-2.de](https://www.123pilze.de/DreamHC/Download/Parasol.htm)
