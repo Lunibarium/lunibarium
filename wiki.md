@@ -5,5 +5,6 @@
 ### [Violettblauer](wiki/Pilze/Violetter_Lacktrichterling.md)
 ### [Roter](wiki/Pilze/Roter_Lacktrichterling.md)
 ## [Parasolpilz](wiki/Pilze/Parasolpilz.md)
+## [Rettichhelmling ☣](wiki/Pilze/Rettichhelmling.md)
 
 # Wildkräuter

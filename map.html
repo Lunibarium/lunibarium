@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <style>
+    /* Define the CSS for the custom icon */
+    .emoji-icon {
+      font-size: 24px;
+      text-align: center;
+      line-height: 1.2;
+      width: 24px;
+      height: 24px;
+      background-color: #ff5722;
+      /* Customize background color */
+      color: #ffffff;
+      /* Customize text color */
+      border-radius: 50%;
+    }
+  </style>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  <title>Karte</title>
+</head>
+
+<body>
+  <div id="map" style="height: 400px;"></div>
+</body>
+
+</html>
+
+<script>
+  // Initialize the map
+  var map = L.map('map').setView([51.6552002, 10.1038462], 13); // Initial view at coordinates [0, 0] and zoom level 13
+
+  // Add the base map (you can choose your own tileset)
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+  }).addTo(map);
+
+  // Function to parse coordinates from the URL anchor
+  function parseAnchorCoordinates() {
+    var hash = window.location.hash;
+    if (hash && hash.startsWith('#')) {
+      var coordinates = hash.substring(1).split('|'); // Use '|' as a delimiter between coordinate sets
+      return coordinates.map(function (coord) {
+        var pair = coord.split(',');
+        if (pair.length === 2) {
+          return [parseFloat(pair[0]), parseFloat(pair[1])];
+        }
+      });
+    }
+    return null;
+  }
+
+  // Read and parse coordinates from the URL anchor
+  var coordinates = parseAnchorCoordinates();
+
+  if (coordinates) {
+    // Define a custom marker icon using HTML and CSS
+    var customIcon = L.divIcon({
+      className: 'emoji-icon',
+      html: '🍄', // Customize with your desired ASCII text (emoji)
+    });
+
+    // Add markers for each set of coordinates using the custom icon
+    coordinates.forEach(function (coord) {
+      L.marker(coord, { icon: customIcon }).addTo(map);
+    });
+  }
+
+
+</script>
