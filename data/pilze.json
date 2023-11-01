@@ -819,7 +819,7 @@
         "geschmack": "Mild",
         "fleisch": "Weißlich, dünn, brüchig",
         "stiel": "Fehlt, auf dem Substrat aufliegend",
-        "vorkommen": "Gern auf Brandstellen, Müllhalden, frischen Bodenaufschüttungen, Straßenneubauten\u0085 auf nacktem, mineralreichem, sandigem Boden, Folgezersetzer, Sommer bis Spätherbst, sehr selten"
+        "vorkommen": "Gern auf Brandstellen, Müllhalden, frischen Bodenaufschüttungen, Straßenneubauten auf nacktem, mineralreichem, sandigem Boden, Folgezersetzer, Sommer bis Spätherbst, sehr selten"
     },
     {
         "wissenschaftlicher_name": "DIALONECTRIA EPISPHAERIA (SYN. NECTRIA ",
@@ -1290,7 +1290,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Schwarz",
         "stiel": "Fehlt, am Substrat aufliegend und aus der Rinde entspringend",
-        "vorkommen": "An abgestorbenen Zweigen von verschiedenen Sträuchern (z.B. Vogelbeere, Essigbeere, Sauerdorn, Schlehe\u0085), Folgezersetzend, ganzjährig"
+        "vorkommen": "An abgestorbenen Zweigen von verschiedenen Sträuchern (z.B. Vogelbeere, Essigbeere, Sauerdorn, Schlehe), Folgezersetzend, ganzjährig"
     },
     {
         "wissenschaftlicher_name": "MELANELIXIA SUBARGENTIFERA (SYN. ",
@@ -1465,7 +1465,7 @@
         "hut": "1-4 (5) cm Ø, ganz selten auch bis 8 cm Ø, hellbraun, rotbraun, ausblassend (hygrophan) und weiß erscheinend, Mitte alt oft geschuppt, meist eingedrückt oder trichterförmig, Rand +/- durchscheinend gerieft",
         "fleisch": "Bräunlich, rotbraun, dünn",
         "stiel": "Ca. 3-8 cm hoch, 6-10 mm Ø dick, verdreht, wellig verbogen, schnell hohl werdend, rötlich, weißlich längs gefasert, ähnlich dem Gifthäubling!",
-        "lamellen": "Weißlich mit Hauch rötlich, fleischrötlich, rosabraun, auch wenn Hut schon weiß gefärbt ist, bleibt die Lamellenfarbe \u0084etwas rosa Hauch\u0093 erhalten, oft bogenförmig, dick und wachsartig, angewachsen, etwas mit Zahn herablaufend, viele kurzen Zwischenlamellen",
+        "lamellen": "Weißlich mit Hauch rötlich, fleischrötlich, rosabraun, auch wenn Hut schon weiß gefärbt ist, bleibt die Lamellenfarbe etwas rosa Hauch erhalten, oft bogenförmig, dick und wachsartig, angewachsen, etwas mit Zahn herablaufend, viele kurzen Zwischenlamellen",
         "vorkommen": "Mischwald, in Gebüsch und bei feuchten Stellen, gesellig, nur in höheren Lagen, gern sandiger Boden, Symbiosepilz, Sommer"
     },
     {
@@ -2995,7 +2995,7 @@
         "fleisch": "Weißlich, im Stiel graugelb, unteren Stielhälfte orangebraun, über den Lamellen mit hyaliner Zone",
         "stiel": "3-9 (11) cm lang, 1-2 (3) cm Ø dick, hellbraun, gelbbraun, voll, zylinderförmig, schuppig, krausenartiger Ring, flüchtig, über Ringzone cremeweiß, unter der Ringzone blassgelb, dicht sparrig geschuppt, Basis dunkler werdend, oft mit mehreren Exemplaren verwachsen",
         "lamellen": "Jung blass gelblich, später gelbbraun, ausgebuchtet angewachsen, mit Zahn herablaufend, sehr gedrängt stehend",
-        "vorkommen": "Totholz, Folgezersetzer, Weißfäuleauslöser, Sommer bis Spätherbst, RL 2 \u00d6sterreich, RL EN Tschechien, meist relativ selten"
+        "vorkommen": "Totholz, Folgezersetzer, Weißfäuleauslöser, Sommer bis Spätherbst, RL 2 Österreich, RL EN Tschechien, meist relativ selten"
     },
     {
         "wissenschaftlicher_name": "LECANORA EXPALLENS",
@@ -3023,7 +3023,7 @@
         "geschmack": "Mild",
         "fleisch": "Graubeige, graubraun, weich, leicht gallertartig-wässrig, etwas brüchig",
         "stiel": "6-8 (9) cm lang, 1-2 (3,5) mm dick Ø, graublau, zylindrisch, sehr selten auch verzweigt, nie deutlich abgesetzt",
-        "vorkommen": "Hauptsächlich auf offenen Rasen, sonst Wiesen, Weiden, Waldlichtungen, kurzgrasiges Gelände, selten auch zwischen niederen Moosen, einzeln oder in Gruppen findbar, Sommer bis Herbst, RL1 Deutschland (vom Aussterben bedroht), \u00d6sterreich stark gefährdet"
+        "vorkommen": "Hauptsächlich auf offenen Rasen, sonst Wiesen, Weiden, Waldlichtungen, kurzgrasiges Gelände, selten auch zwischen niederen Moosen, einzeln oder in Gruppen findbar, Sommer bis Herbst, RL1 Deutschland (vom Aussterben bedroht), Österreich stark gefährdet"
     },
     {
         "wissenschaftlicher_name": "BOVISTA ",
@@ -3102,7 +3102,7 @@
         "name": "Blutflechte",
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
-        "fleisch": "Grüngrau (70-100 x 30-50 \u00b5m, zylindrisch, Asci mit 3-400 Kerne)",
+        "fleisch": "Grüngrau (70-100 x 30-50 µm, zylindrisch, Asci mit 3-400 Kerne)",
         "vorkommen": "Auf Rinde von Nadelbäumen, selten Laubbäumen, Symbiosepilz, ganzjährig"
     },
     {
@@ -3242,7 +3242,7 @@
         "geschmack": "Mild, roh aber giftig!",
         "fleisch": "Weißlich, zum Stielrand gelblich bis gelbbraun, relativ dünn, wachsartig, zerbrechlich",
         "stiel": "7,5-14,5cm lang, ca. 1-2cm breit, weißlich bis gelbbraun, dünnfleischig, flockig genattert, gekammert wattig hohl, eventuell mit ganz kleinen weißen Schüppchen. Nur an der Spitze des Hutes flach angewachsen",
-        "vorkommen": "Mischwald, Auwald oder auch gern im Rindenmulch zu finden, oft gemeinsam unter Spitzmorcheln, Frühjahrespilz \u0096 Februar bis Juni, in kälteren Regionen nicht vor Anfang April, Folgezersetzer, nur Regional selten, RL Schweiz (VU = verletzlich), RL3 Deutschland (gefährdet)"
+        "vorkommen": "Mischwald, Auwald oder auch gern im Rindenmulch zu finden, oft gemeinsam unter Spitzmorcheln, Frühjahrespilz  Februar bis Juni, in kälteren Regionen nicht vor Anfang April, Folgezersetzer, nur Regional selten, RL Schweiz (VU = verletzlich), RL3 Deutschland (gefährdet)"
     },
     {
         "wissenschaftlicher_name": "PSILOCYBE SERBICA VAR. BOHEMICA (SYN. PSILOCYBEBOHEMICA)",
@@ -3297,7 +3297,7 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "Orange, rosaorange, fleischig",
-        "stiel": "Fehlt, am Substrat Mist, Kot\u0085 aufsitzend",
+        "stiel": "Fehlt, am Substrat Mist, Kot aufsitzend",
         "vorkommen": "Auf Kot, Mist von Pflanzenfressern, Kühen, Schafe und Pferden, Folgezersetzer, Sommer bis Herbst, sehr selten"
     },
     {
@@ -4025,7 +4025,7 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "Weißlich bis gelblich",
-        "stiel": "Fehlt (2,5-3 x 0,7-1 \u00b5m, dünnwandig, mäßig gekrümmt, IKI-, Basidien 7,5-11 x 3,6-8 \u00b5m)",
+        "stiel": "Fehlt (2,5-3 x 0,7-1 µm, dünnwandig, mäßig gekrümmt, IKI-, Basidien 7,5-11 x 3,6-8 µm)",
         "vorkommen": "An Nadelholz, Folgezersetzer (LIGNICOLER SAPROBIONT), ganzjährig"
     },
     {
@@ -4089,7 +4089,7 @@
         "name": "Braunrandiger Becherborstling",
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
-        "hut": "2-9 (13) mm Ø, schmutzig orange, gelborange, Rand umgebogen, Haare sehr lang bis 1200 \u00b5m, schüsselförmig, becherförmig",
+        "hut": "2-9 (13) mm Ø, schmutzig orange, gelborange, Rand umgebogen, Haare sehr lang bis 1200 µm, schüsselförmig, becherförmig",
         "fleisch": "Gelborange",
         "stiel": "Fehlt, auf dem feuchten Substrat aufsitzend",
         "vorkommen": "Auf feuchten Stellen, meist im Wald, Folgezersetzer, Frühling bis Spätherbst, extrem selten"
@@ -4900,7 +4900,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Schwarz, hart",
         "stiel": "Fehlt, auf dem Substrat (resupinat) aufliegend",
-        "vorkommen": "An Laubbäumen, gern Buche, Esche, Eichen, Birke usw\u0085, gern mit glatter Rinde, parasitär auf der Oberfläche und ernährt sich von der obersten Rindenschicht, liebt viel Feuchtigkeit, ganzjährig"
+        "vorkommen": "An Laubbäumen, gern Buche, Esche, Eichen, Birke usw, gern mit glatter Rinde, parasitär auf der Oberfläche und ernährt sich von der obersten Rindenschicht, liebt viel Feuchtigkeit, ganzjährig"
     },
     {
         "wissenschaftlicher_name": "HYGROPHORUS FAGI (SYN. HYGROPHORUS PENARIUS VAR. FAGI)",
@@ -4991,7 +4991,7 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "Graurosa",
-        "stiel": "Weißlich (10-12 x 3-4 \u00b5m)",
+        "stiel": "Weißlich (10-12 x 3-4 µm)",
         "vorkommen": "Nur an Buchsbäume (BUXUS), liegenden Ästen, Stämmen, abgestorbenen Buchs-Bäumen, Folgezersetzer, ganzjährig, selten, RL Schweiz (EN = stark gefährdet)"
     },
     {
@@ -5287,7 +5287,7 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "Schmutzig weiß bis gelblich, etwas gelatinös, knorpelig, wachsartig, weich, trocken zäh und hornartig",
-        "vorkommen": "Auf totem Holz von Laub- und Nadelbäumen, gern altem Bauholz, Bretter usw\u0085, Folgezersetzer, Weißfäuleauslöser, ganzjährig, sehr selten"
+        "vorkommen": "Auf totem Holz von Laub- und Nadelbäumen, gern altem Bauholz, Bretter usw, Folgezersetzer, Weißfäuleauslöser, ganzjährig, sehr selten"
     },
     {
         "wissenschaftlicher_name": "LEUCOPAXILLUS PARADOXUS (SYN. LEUCOPAXILLUS CEREALIS, LEUCOPAXILLUS ",
@@ -5365,7 +5365,7 @@
         "name": "Dichtblättriger Schwärztäubling",
         "geruch": "Neutral, moderig, altes Weinfass, +/- schwach fruchtig nach Weintrauben",
         "geschmack": "Mild bis schärflich, vor allem in den Lamellen etwas scharf",
-        "hut": "4-10 (15) cm Ø, zuerst weißlich, graubraun, rußbraun, olivbraun, später dunkler bräunlich bis rotbraun, wolkig fleckig, glatt, +/- fein rissig, Haut nur max. 1/6 abziehbar (\u2153 vom Radius), Hutmitte vertieft, trichterförmig. Randzone meist wellig verbogen, heruntergebogen",
+        "hut": "4-10 (15) cm Ø, zuerst weißlich, graubraun, rußbraun, olivbraun, später dunkler bräunlich bis rotbraun, wolkig fleckig, glatt, +/- fein rissig, Haut nur max. 1/6 abziehbar (⅓ vom Radius), Hutmitte vertieft, trichterförmig. Randzone meist wellig verbogen, heruntergebogen",
         "fleisch": "Weiß, bei Verletzung langsam rötend, später dunkelgrau bis grauschwarz verfärbend, hart, fest, brüchig",
         "stiel": "3-5 (7) cm lang, 0,7-2(2,5) cm Ø dick, weiß, bei Verletzung bräunlich anlaufend, später grauschwarz, Fraßstellen schwarz, Rinde weiß, glatt, Basis schwach keulig",
         "lamellen": "Weißlich-cremeocker, bei Verletzung rötend, später schwärzend bis schmutzig blaugrünlich, sehr eng stehend, Schneiden schneller rötend, regelmäßige Zwischenlamellen",
@@ -5408,8 +5408,8 @@
         "geschmack": "Mild",
         "hut": "0,5-2 (3) cm Ø, bis 5 cm hoch, dunkelbraun, kastanienbraun, rotbraun, dunkel schwärzlichbraun, matt bis glänzend, hygrophan, beim Trocknen streifig verblassend, fein radialfaserig, Mitte warzenförmig gebuckelt, gefaltet und +/- eingedellt, Rand gerieft und etwas nach unten gebogen, jung halbkugelig, kegelig, später flach ausgebreitet",
         "fleisch": "Dunkelbraun, hellbraun, graubraun, im Hut schmutzig cremebraun, Hut- mit Stielfleisch ineinander verwachsen, im Hut extrem dünnfleischig, wässrig",
-        "stiel": "2\u22124 (5)cm lang und ca.1,5-3 (3,5)mm Ø dick, graubraun, weißlich-silbrig bereift, längsfaserig, knorpelig, röhrig, +/- gefurcht, Basis schlank knollig, weißfilzig, wattig ausgefüllt, später hohl",
-        "lamellen": "Graubraun, später purpurgrau, ausgebuchtet angewachsen und +/- mit Zähnchen herablaufend, etwas entfernt stehend, relativ breit, dick, fein gelappt, Schneiden +/- glatt, bisweilen auch mit feinen kurzen Härchen, gleichfarbig, Endzellen der Hutdeckschicht 3-15 \u00b5m breit, keulig und teils aufgeblasen",
+        "stiel": "2−4 (5)cm lang und ca.1,5-3 (3,5)mm Ø dick, graubraun, weißlich-silbrig bereift, längsfaserig, knorpelig, röhrig, +/- gefurcht, Basis schlank knollig, weißfilzig, wattig ausgefüllt, später hohl",
+        "lamellen": "Graubraun, später purpurgrau, ausgebuchtet angewachsen und +/- mit Zähnchen herablaufend, etwas entfernt stehend, relativ breit, dick, fein gelappt, Schneiden +/- glatt, bisweilen auch mit feinen kurzen Härchen, gleichfarbig, Endzellen der Hutdeckschicht 3-15 µm breit, keulig und teils aufgeblasen",
         "vorkommen": "Gärten, Gebüsch, Wälder, Parks, an grasigen halbschattigen Stellen, nährstoffreichem Boden, Frühling bis Spätherbst, sehr selten, RL-G Deutschland (GEFÄHRDUNG unbekannten Ausmaßes)"
     },
     {
@@ -5847,7 +5847,7 @@
         "fleisch": "Weiß, bei Verletzung oder Fraßstellen leicht gelblich verfärbend, stark brüchig",
         "stiel": "2-5 (6) cm lang, 0,5-1 (1,2) cm Ø dick, weiß, nach längerer Zeit auch gilbend, schnell hohlkammrig, Basis älter schneller gilbend bis braunfleckig",
         "lamellen": "Weiß, alt hellgelb, dottergelb, angewachsen, brüchig, öfters gegabelt, mit tiefen Querlamellen, Zwischenlamellen",
-        "vorkommen": "Mischwald, häufig in schattigem und feuchtem Laubwalde, gern bei Eichen, Hainbuchen\u0085, auf nährstoffreichen Boden, Symbiosepilz, Sommer bis Herbst, sehr selten, RL Schweiz (EN), RL3 Deutschland (gefährdet)"
+        "vorkommen": "Mischwald, häufig in schattigem und feuchtem Laubwalde, gern bei Eichen, Hainbuchen, auf nährstoffreichen Boden, Symbiosepilz, Sommer bis Herbst, sehr selten, RL Schweiz (EN), RL3 Deutschland (gefährdet)"
     },
     {
         "wissenschaftlicher_name": "CORTINARIUS AGATHOSMUS",
@@ -5880,7 +5880,7 @@
         "hut": "1-8 (10) cm Ø, rotbraun, dunkelrotbraun bis orangebraun, gelbbraun vom Rand aus ausblassend (hygrophan), glatt, alt weißlich erscheinend, Mitte später eingedrückt, +/- durchscheinend gerieft",
         "fleisch": "Bräunlich, hell rotbraun, meist sehr blass bräunlich, dünn",
         "stiel": "Ca. 2-7 cm hoch, rötlich, rotbraun, +/- weißlich längs gefasert, verdreht, wellig verbogen, schnell hohl werdend",
-        "lamellen": "Weißlich mit Hauch rötlich, fleischrötlich, rosabraun, auch wenn Hut schon weiß gefärbt ist, bleibt die Lamellenfarbe \u0084etwas rosa Hauch\u0093 erhalten, bogenförmig, dick und wachsartig, ausgebuchtet angewachsen, etwas mit Zahn herablaufend, Schneiden meist wellig, mit kurzen Zwischenlamellen",
+        "lamellen": "Weißlich mit Hauch rötlich, fleischrötlich, rosabraun, auch wenn Hut schon weiß gefärbt ist, bleibt die Lamellenfarbe etwas rosa Hauch erhalten, bogenförmig, dick und wachsartig, ausgebuchtet angewachsen, etwas mit Zahn herablaufend, Schneiden meist wellig, mit kurzen Zwischenlamellen",
         "vorkommen": "Dünen, sandiger Boden, an feuchten Stellen, gesellig, Symbiosepilz, Frühsommer bis Spätherbst, sehr selten, RL1 Deutschland (vom Aussterben bedroht)"
     },
     {
@@ -5991,7 +5991,7 @@
         "geschmack": "Bitter",
         "hut": "3-6 (8) cm Ø, kastanienbraun, dunkelbraun, dattelfarbig, ockerbräunlich, Scheibe dunkler, zum Rand heller, weißlich, hygrophan, lange eingerollt",
         "fleisch": "Weißlich, Basis gelbbräunlich, +/- auf Druck oder Verletzung braungelb fleckend",
-        "stiel": "10-25 \u00d7 3-8 mm, weißlich, später von der Basis aus tiefer bräunlich bis honigfarben werdend, Spitze bereift, meist, voll, faserig, selten mit kleinen Einschlüssen, nicht wurzelnd",
+        "stiel": "10-25 × 3-8 mm, weißlich, später von der Basis aus tiefer bräunlich bis honigfarben werdend, Spitze bereift, meist, voll, faserig, selten mit kleinen Einschlüssen, nicht wurzelnd",
         "lamellen": "Grau, graubraun, ockerbraun, stark braunfleckend, Schneiden weißlich, heller, etwas wellig gezahnt, ausgebuchtet angewachsen, mit Zahn etwas herablaufend, relativ weit entfernt stehend, feucht mit hyalinen Tröpfchen besetzt, diese beiden oft im später eine Braunverfärbung der Lamellenzwischenwände",
         "vorkommen": "Laubwald, Parks, Wegränder, bei Laubbäumen, meist Pappeln, Espen, seltener andere Baumarten, auf sandigen, kalkreichen Boden, auf offene Graslichtungen, wärmeliebend, häufiger in mediterranen Gebieten, Symbiosepilz (MYKORRHIZAPILZ), Sommer bis Herbst, RL-G Deutschland (GEFÄHRDUNG unbekannten Ausmaßes)"
     },
@@ -6077,7 +6077,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Weiß, transparent",
         "stiel": "Kein oder kaum sichtbar",
-        "vorkommen": "Meist auf totem morschem Laub-Totholz, gern Ästen von Eiche, Erle, Buche, Haselnuss usw\u0085, Folgezersetzer, ganzjährig außerhalb der Frostzeit, selten"
+        "vorkommen": "Meist auf totem morschem Laub-Totholz, gern Ästen von Eiche, Erle, Buche, Haselnuss usw, Folgezersetzer, ganzjährig außerhalb der Frostzeit, selten"
     },
     {
         "wissenschaftlicher_name": "GYMNOPUS ALPINUS (SYN. COLLYBIA ALPINA)",
@@ -6214,7 +6214,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Schwarz, zäh-elastisch, gummiartig, alt dunkelbraun bis schwarz, lederartig, trocken fest homartig",
         "stiel": "Fehlt, in der Rinde verwachsen (eingesenkt)",
-        "vorkommen": "Auf Äste, Blätter, Schilf oder sonstigen holzähnlichem Pflanzenmaterial, \u0085 parasitär oder folgezersetzend, ganzjährig, sehr selten"
+        "vorkommen": "Auf Äste, Blätter, Schilf oder sonstigen holzähnlichem Pflanzenmaterial,  parasitär oder folgezersetzend, ganzjährig, sehr selten"
     },
     {
         "wissenschaftlicher_name": "EPISPHAERIA FRAXINICOLA (SYN. CYPHELLA FRAXINICOLA, CHAETOCYPHA FRAXINICOLA, PHAEOCYPHELLA FRAXINICOLA)",
@@ -6427,7 +6427,7 @@
         "fleisch": "Grau bis grauschwarz",
         "stiel": "Meist nur angedeutet, seitlich",
         "lamellen": "Dunkel grau, graubraun, grauschwarz, bis zur Ansatzstelle zusammenlaufend, nicht gedrängt, herablaufend wirkend, Schneiden blasser wirkend, +/- fein gezahnt",
-        "vorkommen": "Auf moderndem feuchtem Totholz von Laubbäumen, meist auf kürzlich abgestorbenen Holz, Folgezersetzer, wärmeliebend, häufiger in südlichen bzw. mediterranen Regionen wie Frankreich, Italien usw\u0085 , Frühling bis Spätherbst, sehr selten"
+        "vorkommen": "Auf moderndem feuchtem Totholz von Laubbäumen, meist auf kürzlich abgestorbenen Holz, Folgezersetzer, wärmeliebend, häufiger in südlichen bzw. mediterranen Regionen wie Frankreich, Italien usw , Frühling bis Spätherbst, sehr selten"
     },
     {
         "wissenschaftlicher_name": "STEMONITIS FUSCA (SYN. STEMONITIS SPLENDENS VAR. FLACCIDA, CLATHRUS PERTUSUS, EMBOLUS PERTUSUS)",
@@ -6858,7 +6858,7 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend, mild",
         "fleisch": "Gelbbraun, hellbraun, dunkelbraun = innen in der aufgesetzten Kugel, +/- rötend",
-        "vorkommen": "Mischwald, Folgezersetzer, wärmeliebend, Amerika, Asien\u0085, Deutschland RL D, Herbst bis Spätherbst"
+        "vorkommen": "Mischwald, Folgezersetzer, wärmeliebend, Amerika, Asien, Deutschland RL D, Herbst bis Spätherbst"
     },
     {
         "wissenschaftlicher_name": "BRODOA INTESTINIFORMIS (SYN. HYPOGYMNIA INTESTINIFORMIS, BRODOA OROARCTICA)",
@@ -7107,7 +7107,7 @@
         "wissenschaftlicher_name": "CORTINARIUS RIGIDUS (SYN. CORTINARIUS UMBRINOLE",
         "speisewert": "F - ungenießbar",
         "name": "Erdigriechender Wasserkopf",
-        "geruch": "Erdig, staubartig, muffig bis unbedeutend \u0096 nie nach Pelargonium wie Duftender Gürtelfuß",
+        "geruch": "Erdig, staubartig, muffig bis unbedeutend  nie nach Pelargonium wie Duftender Gürtelfuß",
         "geschmack": "Mild",
         "hut": "1,5-5 (7) cm Ø, umbrabräunlich, schwarzbraun, Mitte dunkler, Rand hygrophan (heller ausbleichend), Scheitel glatt, Huthaut weißflockig-faserig, Rand mit weiß-seidigem Velum gefasert",
         "fleisch": "Gelbbraun, graubraun, in der Stielbasis rötend",
@@ -7174,7 +7174,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Grauschwarz",
         "stiel": "Fehlt, in der Rinde verwachsen, später austretend kurz und dick gestielt",
-        "vorkommen": "Auf Ästen von Erle und einige andere Laubbaumarten wie z.B. Apfelbaum, Birnbaum\u0085 (verursacht Knollenfäule), parasitär oder folgezersetzend, ganzjährig, selten"
+        "vorkommen": "Auf Ästen von Erle und einige andere Laubbaumarten wie z.B. Apfelbaum, Birnbaum (verursacht Knollenfäule), parasitär oder folgezersetzend, ganzjährig, selten"
     },
     {
         "wissenschaftlicher_name": "GYRODON LIVIDUS (SYN. ",
@@ -7239,7 +7239,7 @@
         "name": "Erlenrindensprenger",
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
-        "hut": "2-12 (100\u0085 >) cm Ø, weißlich, gelbbraun, Oberfläche glatt bis wachsartig, uneben, bei Regen gallertartig, erhöhend abblätternd vom Substrat",
+        "hut": "2-12 (100 >) cm Ø, weißlich, gelbbraun, Oberfläche glatt bis wachsartig, uneben, bei Regen gallertartig, erhöhend abblätternd vom Substrat",
         "fleisch": "Weißlich-lila bis rosagelblich, gallertartig, 1-5 mm dick",
         "vorkommen": "Laubholzäste, meist an Erlen, ganzjährig"
     },
@@ -7406,7 +7406,7 @@
         "fleisch": "Weiß, ohne Verfärbung, faserig, etwas zäh",
         "stiel": "Grau, sehr kurz bis fast fehlend, seitlich angewachsen",
         "lamellen": "Jung weiß, schnell cremefarben, alt ockergelblich bis ockerbraun, dicht gedrängt, zu der Anwachsstelle oder Stiel zulaufend, Schneiden gern gesägt, wellig",
-        "vorkommen": "Espe, Pappelarten, selten auch an anderen Laubholzarten wie Vogelbeere, Weiden\u0085, seitlich an Stämme, Stümpfe und herabgefallene Ästen wachsend, parasitär und Folgezersetzend, Frühsommer bis Herbst, RL-G Deutschland (GEFÄHRDUNG unbekannten Ausmaßes)"
+        "vorkommen": "Espe, Pappelarten, selten auch an anderen Laubholzarten wie Vogelbeere, Weiden, seitlich an Stämme, Stümpfe und herabgefallene Ästen wachsend, parasitär und Folgezersetzend, Frühsommer bis Herbst, RL-G Deutschland (GEFÄHRDUNG unbekannten Ausmaßes)"
     },
     {
         "wissenschaftlicher_name": "PENIOPHORA POLYGONIA (SYN. ALEURODISCUS POLYGONIUS, GLOEOCYSTIDIUM POLYGONIUM)",
@@ -7447,7 +7447,7 @@
         "geruch": "Unbedeutend",
         "geschmack": "Mild",
         "fleisch": "Bräunlich",
-        "vorkommen": "Mischwald, Parks, Zoo, Tiergeschäfte, Wiesen und Weiden, der Pilz befällt Raupen, Mehlwürmer usw\u0085 und löst diese auf, zuerst parasitär, anschießend Folgezersetzer, Sommer bis Spätherbst, RL-R Deutschland (extrem selten), in der Slowakei häufiger"
+        "vorkommen": "Mischwald, Parks, Zoo, Tiergeschäfte, Wiesen und Weiden, der Pilz befällt Raupen, Mehlwürmer usw und löst diese auf, zuerst parasitär, anschießend Folgezersetzer, Sommer bis Spätherbst, RL-R Deutschland (extrem selten), in der Slowakei häufiger"
     },
     {
         "wissenschaftlicher_name": "ENTOLOMA EXCENTRICUM (SYN. ",
@@ -7882,7 +7882,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Schwarz",
         "stiel": "Fehlt, am Substrat aufliegend und aus der Rinde entspringend",
-        "vorkommen": "An abgestorbenen Zweigen von verschiedenen Sträuchern (gern Faulbaum, Kreuzdorn, Schlehe\u0085), Folgezersetzend, ganzjährig"
+        "vorkommen": "An abgestorbenen Zweigen von verschiedenen Sträuchern (gern Faulbaum, Kreuzdorn, Schlehe), Folgezersetzend, ganzjährig"
     },
     {
         "wissenschaftlicher_name": "CORTINARIUS BARBARICUS (SYN. ",
@@ -8359,7 +8359,7 @@
         "geschmack": "Mild",
         "fleisch": "Bräunlich, dick",
         "stiel": "Bräunlich, sehr kurz oder fehlend, meist auf dem Substrat haftend",
-        "vorkommen": "Auf Totholz, Boden oder verrotteten Pflanzenresten, gern von Tieren mit Urin verunreinigtes Substrat, Folgezersetzer, feuchtigkeitsliebend, gern in kälteren Regionen wie Norwegen, Russland\u0085, Mitteleuropa sehr selten, Frühjahr bis Sommer, RL-R Deutschland (extrem selten)"
+        "vorkommen": "Auf Totholz, Boden oder verrotteten Pflanzenresten, gern von Tieren mit Urin verunreinigtes Substrat, Folgezersetzer, feuchtigkeitsliebend, gern in kälteren Regionen wie Norwegen, Russland, Mitteleuropa sehr selten, Frühjahr bis Sommer, RL-R Deutschland (extrem selten)"
     },
     {
         "wissenschaftlicher_name": "CORTINARIUS TOFACEUS (SYN. GOMPHOS TOFACEUS, CORTINARIUS TOFACEUS VAR. REDIMITUS, ",
@@ -8486,7 +8486,7 @@
         "geruch": "Neutral bis angenehm, pilzartig",
         "geschmack": "Mild, aromatisch pilzartig",
         "fleisch": "Bräunlich",
-        "stiel": "Fehlt, am Substrat konsolenförmig angewachsen, rundlich bis eckig, ca. 2-5 Stück je m\u00b2",
+        "stiel": "Fehlt, am Substrat konsolenförmig angewachsen, rundlich bis eckig, ca. 2-5 Stück je m²",
         "vorkommen": "An lebenden alten Laubbäumen, meist Eichen und Buchen, parasitär und/oder folgezersetzend, Weißfäuleauslöser, Sommer bis Herbst, meist selten, RL Schweiz (EN)"
     },
     {
@@ -8611,7 +8611,7 @@
         "fleisch": "Weißlich, hellbraun, fleischig",
         "stiel": "2,5-5 (6) cm lang, 2-6 (7) mm Ø dick, hellbräunlich, selten auch mit etwas rosa Hauch, +/- längsrillig, oft braungefleckt, Spitze heller, röhrig bis gewunden, oft zusammengedrückt, hohl, Grund schwach verdickt, Basis meist weißzottig bis fein weichhaarig, +/- glänzend",
         "lamellen": "Weiß, schmutzig hellbraun, später rostfleckig, frei oder kurz vor dem Stiel ausgebuchtet angewachsen (Burggraben), breit und entfernt stehend mit vielen Zwischenlamellen",
-        "vorkommen": "Mischwald, meist Laubwald, gern an grasigen Stellen, Folgezersetzer, Sommer bis Spätherbst, selten, RL Schweiz (VU = verletzlich), Deutschland und \u00d6sterreich extrem selten, kaum Nachweise"
+        "vorkommen": "Mischwald, meist Laubwald, gern an grasigen Stellen, Folgezersetzer, Sommer bis Spätherbst, selten, RL Schweiz (VU = verletzlich), Deutschland und Österreich extrem selten, kaum Nachweise"
     },
     {
         "wissenschaftlicher_name": "AGARICUS ALBOARGILLASCENS (SYN. PSALLIOTA ALBOARGILLASCENS)",
@@ -8802,7 +8802,7 @@
         "fleisch": "Weiß bis blass cremeocker, alt auch etwas rostbraun",
         "stiel": "2-6 (8) cm lang, 0,8-2 (3) cm Ø dick, weiß, teilweise rosa getönt oder rostfleckig, alt gilbend, hart, voll, Spitze verjüngt",
         "lamellen": "5-14 (15)mm lang, weißlich, später gelblich, orangegelb, sattgelb, eventuell rot- oder gelbfleckig, +/- purpurn oder rosa angehaucht, fein angewachsen, fast frei wirkend, teilweise gegabelt, Schneiden vereinzelt rötlich",
-        "vorkommen": "Mischwald, meist Laubwald, gern Buchen, Eichen, Hasel, selten bei Kiefern, Tannen\u0085, Symbiosepilz, Spätsommer bis Herbst, sehr selten, RL Schweiz (VU = verletzlich), RL3 Deutschland (gefährdet)"
+        "vorkommen": "Mischwald, meist Laubwald, gern Buchen, Eichen, Hasel, selten bei Kiefern, Tannen, Symbiosepilz, Spätsommer bis Herbst, sehr selten, RL Schweiz (VU = verletzlich), RL3 Deutschland (gefährdet)"
     },
     {
         "wissenschaftlicher_name": "COLLEMA NIGRESCENS (SYN. LICHEN NIGRESCENS)",
@@ -8865,7 +8865,7 @@
         "wissenschaftlicher_name": "CLITOCYBE DIATRETA (SYN. LEPISTA DIATRETA, AGARICUS DIATRETUS, OMPHALIA DIATRETA, CLITOCYBE PINETORUM SENSU AUCT, CLITOCYBE DIATRETA VAR. FUSCESCENTIPES)",
         "speisewert": "Giftig",
         "name": "Fleischfalber Trichterling",
-        "geruch": "Würzig, pilzig, obstartig, angenehm \u0096 nicht mehlartig!",
+        "geruch": "Würzig, pilzig, obstartig, angenehm  nicht mehlartig!",
         "geschmack": "Mild",
         "hut": "3-6 (8) cm Ø, fleischfarben bis rotbraun, trichterförmig, feucht speckig glänzend, hygrophan, selten leicht angedeutet gerieft",
         "fleisch": "Dünnfleischig, hellbräunlich",
@@ -9439,7 +9439,7 @@
         "name": "Frühlingsknollenblätterpilz",
         "geruch": "Geruchlos, unangenehm, süßlich, honigartig (Kunsthonig) oder aasartig",
         "geschmack": "Mild, würzig, angenehm - niemals Kostversuche wegen Leberschädigung!",
-        "hut": "3-12 (15) cm Ø, weißlich, reinweiß, seidenweiß, älter oft creme- bis cremeocker, gelbocker, auch hellbräunlich, nicht gerieft, radialfaserig, jung \u00b1 halbkugelig, später flach ausgebreitet, +/- mit spärlichen, weißen Velumresten. Bei Wulstlingen, Knollenblätterpilzen und Streiflingen ist die Huthaut tortenstückförmig bis zur Mitte abziehbar. Habitus jung eierförmig, halbkugelig, alt konvex",
+        "hut": "3-12 (15) cm Ø, weißlich, reinweiß, seidenweiß, älter oft creme- bis cremeocker, gelbocker, auch hellbräunlich, nicht gerieft, radialfaserig, jung ± halbkugelig, später flach ausgebreitet, +/- mit spärlichen, weißen Velumresten. Bei Wulstlingen, Knollenblätterpilzen und Streiflingen ist die Huthaut tortenstückförmig bis zur Mitte abziehbar. Habitus jung eierförmig, halbkugelig, alt konvex",
         "fleisch": "Weiß, unter der Huthaut gelbgrünlich, Trama brüchig, keine Verfärbung beim Durchschneiden, Knolle weich",
         "stiel": "5-11 (13) cm lang, 1-2,5 (3-6 die Knolle) cm Ø, weiß, faserig, nicht genattert, maximal mit ganz kleinen angedrückten Velumschüppchen, voll bis ausgestopft, alt hohl, Basis zwiebelknollig, gerandet die in einer häutigen, sackartigen Scheide steckt. Spitze ist meist relativ leicht vom Hutfleisch abtrennbar",
         "lamellen": "Weiß bis cremeweiß, frei bis +/- fein angewachsen, relativ eng stehend",
@@ -9666,7 +9666,7 @@
         "geschmack": "Mild",
         "hut": "1-2 (3) cm Ø, rotbraun, orangebraun, blasser beige-ockerlich, trocken ausbleichend (hygrophan), durchscheinend gerieft bis zum Papillen-Anfang jung spitzkegelig, später glockenförmig, Mitte dunkler braun, meist gebuckelt mit kleiner Papille, Hautschicht ganz fein behaart",
         "fleisch": "Bräunlich-ocker, dünn, faserig",
-        "stiel": "25-40 (50) mm lang, 1-1,5 (2) mm Ø dick, rostbraun, ockerbraun, olivbraun, fein längsgerieft, fein flaumig-haarig (Haare 30-55 \u00b5m), langgezogen, faserig, dünn, hohl",
+        "stiel": "25-40 (50) mm lang, 1-1,5 (2) mm Ø dick, rostbraun, ockerbraun, olivbraun, fein längsgerieft, fein flaumig-haarig (Haare 30-55 µm), langgezogen, faserig, dünn, hohl",
         "lamellen": "Weißlich-ocker, hell orangebraun, später rostocker, zimtocker, fein angewachsen, +/- leicht mit Zahn herablaufend",
         "vorkommen": "Laubwald, bei Moos, Wegrändern, an feuchten Stellen, gern in höheren Gebirgslagen, gern auf mageren Standorten, Folgezersetzer, Sommer bis Herbst, sehr selten"
     },
@@ -10109,7 +10109,7 @@
         "fleisch": "Blassgelblich im Hut im Stiel etwas kräftiger gelb, dick, fest, faserig",
         "stiel": "4-10 (14) cm lang, 0,6-2 (2,2) cm Ø breit, gelblich, bräunlich, rotbraun längsfaserig, zylindrisch, manchmal spindelig wurzelnd, alt hohl, +/- etwas schmierig, Stielfleisch im Alter bräunend",
         "lamellen": "Weißlich-gelblich, hellbräunlich, später rostbraun fleckend, am Stiel abgerundet ausgebuchtet angewachsen (Burggraben), gedrängt stehend, Schneiden glatt und schnell rotfleckig, leicht ablösbar",
-        "vorkommen": "Laubwald, gern Birke, wird deshalb in Großbritannien auch \u0084Birch Knight\u0093 (Birkenritter) genannt, Symbiosepilz (Mykorrhizapilz), Sommer bis Spätherbst, einzeln oder büschelig"
+        "vorkommen": "Laubwald, gern Birke, wird deshalb in Großbritannien auch Birch Knight (Birkenritter) genannt, Symbiosepilz (Mykorrhizapilz), Sommer bis Spätherbst, einzeln oder büschelig"
     },
     {
         "wissenschaftlicher_name": "GYMNOPUS OCIOR (SYN. ",
@@ -10150,7 +10150,7 @@
         "fleisch": "Weiß, fest, brüchig, alt weich",
         "stiel": "3-6 (7)cm lang, 0,5-2 (2,5)cm Ø, weiß, etwas bereift, nie grauend, nie rötlich bereift, fest und voll, zerbrechlich, alt schwammig oder unregelmäßig gekammert, zylindrisch, an der Basis etwas verdickt",
         "lamellen": "5-7 (8)mm hoch, hell goldgelb, strohgelb, alt ockergelb, sehr gleichmäßig, ohne Zwischenlamellen, relativ gedrängt, eng stehen, sehr selten auch gegabelt",
-        "vorkommen": "Mischwald, Parks, Laubwald, gern unter Hainbuchen, Rotbuchen, Eichen\u0085, Symbiosepilz (MYKORRHIZAPILZ), meist auf lehmigen, kalkreichen Boden, Sommer bis Herbst, extrem selten, RL2 Deutschland (stark gefährdet)"
+        "vorkommen": "Mischwald, Parks, Laubwald, gern unter Hainbuchen, Rotbuchen, Eichen, Symbiosepilz (MYKORRHIZAPILZ), meist auf lehmigen, kalkreichen Boden, Sommer bis Herbst, extrem selten, RL2 Deutschland (stark gefährdet)"
     },
     {
         "wissenschaftlicher_name": "CORTINARIUS TUBARIUS (SYN. ",
@@ -10481,7 +10481,7 @@
         "geschmack": "Neutral, mild",
         "fleisch": "Weißlich bis hell-gelblich mit roter Innenschicht, wachsartig, dünn",
         "stiel": "2-3 (4) cm lang weißlich bis gelblich, Spitze rötlich, kurz, manchmal auch etwas länger ausgebildet",
-        "vorkommen": "Gern Auwälder, an Laubholzästen, Weiden, Espen, Linden\u0085 gern sandiger, kalkreicher Boden, Folgezersetzer (SAPROPHYT), Winter bis Mai"
+        "vorkommen": "Gern Auwälder, an Laubholzästen, Weiden, Espen, Linden gern sandiger, kalkreicher Boden, Folgezersetzer (SAPROPHYT), Winter bis Mai"
     },
     {
         "wissenschaftlicher_name": "MYCENA LUTEOVARIEGATA (SYN. MYCENA PURA VAR. LUTEA, MYCENA PURA FORMA LUTEA, MYCENA LUTEA)",
@@ -10643,7 +10643,7 @@
         "name": "Gelbes Harzbecherchen",
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
-        "fleisch": "Gelb, bis zu 100 \u00b5m dick im feuchten Zustand",
+        "fleisch": "Gelb, bis zu 100 µm dick im feuchten Zustand",
         "stiel": "Fehlt, auf dem Substrat aufsitzend",
         "vorkommen": "Auf Baumharz wachsend, gerne auf älterem schon schwarzem Harz von Lärchen, Folgezersetzer, Frühling bis Spätherbst"
     },
@@ -10913,7 +10913,7 @@
         "fleisch": "Weiß, nicht verfärbend",
         "stiel": "3-7 (9) cm lang, 0,8-2 (2,5) cm Ø dick, weiß, schwach keulige, zylindrische, meist sogar zur Spitze hin etwas verschmälerte",
         "lamellen": "Hellgelb, gelb, ockergelb, später gelborange, fein angewachsen",
-        "vorkommen": "Im Nadelwald, gern unter Fichten und Tannen, gern bodensauren, feuchten bis moo\u00adrigen Standorten, Symbiosepilz (EKTOMYKORRHIZAPILZ), Spätsommer bis Spätherbst, RL Deutschland gefährdet, in Bayern verschollen"
+        "vorkommen": "Im Nadelwald, gern unter Fichten und Tannen, gern bodensauren, feuchten bis moorigen Standorten, Symbiosepilz (EKTOMYKORRHIZAPILZ), Spätsommer bis Spätherbst, RL Deutschland gefährdet, in Bayern verschollen"
     },
     {
         "wissenschaftlicher_name": "HYGROCYBE VIRESCENS ",
@@ -11669,7 +11669,7 @@
         "vorkommen": "Nadelwald, gern Kiefern, höheren Lagen, Folgezersetzer (Saprophyten), Sommer bis Herbst"
     },
     {
-        "wissenschaftlicher_name": "HEMIMYCENA EPICHLO\u00cb (SYN. ",
+        "wissenschaftlicher_name": "HEMIMYCENA EPICHLOË (SYN. ",
         "speisewert": "F - ungenießbar",
         "name": "Genabelter Scheinhelmling",
         "geruch": "Neutral",
@@ -12271,7 +12271,7 @@
         "hut": "4-10 (>12) cm Ø, braun, rotbraun, kastanienbraun, dunkelbraun, zweifarbig, mit dunkelbraunen Zonen, samtig, alt mit feiner runzeliger Kruste verhärtet. Mit agglutinierenden generativen Hyphen mit Schnallen, die sich nach dem Verschwinden sich dunkelbraun färbt",
         "fleisch": "Jung weiß, später ockerbräunlich, faserig, zuerst korkig weich, sehr zäh, später hart",
         "stiel": "Braun, etwas samtig, oft seitenstielig, selten zentralstielig",
-        "vorkommen": "Nadelholzstümpfen oder auf toten Wurzeln, fast nur Tanne, Folgezersetzer, in kalkreichen Gebieten, in sauren Gebieten wie Bayerwald und Böhmerwald fehlend, Sommer bis Spätherbst, Weißfäuleauslöser, einjährig, oft mehrjährig verbleibend, extrem selten, RL2 Deutschland (stark gefährdet), RL \u00d6sterreich"
+        "vorkommen": "Nadelholzstümpfen oder auf toten Wurzeln, fast nur Tanne, Folgezersetzer, in kalkreichen Gebieten, in sauren Gebieten wie Bayerwald und Böhmerwald fehlend, Sommer bis Spätherbst, Weißfäuleauslöser, einjährig, oft mehrjährig verbleibend, extrem selten, RL2 Deutschland (stark gefährdet), RL Österreich"
     },
     {
         "wissenschaftlicher_name": "CYATHUS STRIATUS (SYN. PEZIZA STRIATA, CYATHUS STRIATUS, NIDULARIA STRIATA VAR. ",
@@ -12861,7 +12861,7 @@
         "name": "Glatte Blattflechte",
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
-        "fleisch": "Grau (65-80 x 4-5 \u00b5m, Asci 8-sporig, mit 3-7 Septen)",
+        "fleisch": "Grau (65-80 x 4-5 µm, Asci 8-sporig, mit 3-7 Septen)",
         "vorkommen": "Auf Boden, zwischen Moosen, Symbiosepilz, ganzjährig, selten"
     },
     {
@@ -13063,7 +13063,7 @@
         "geschmack": "Mild",
         "fleisch": "Schmutzig weiß bis gelblich, zart",
         "stiel": "Fehlt, am Substrat Boden (seltener aus verrotteten Stämmen) entwickelnd",
-        "vorkommen": "Gern auf Brandstellen, Müllhalden, frischen Bodenaufschüttungen, Straßenneubauten\u0085 auf nacktem, mineralreichem, sandigem Boden, selten in Laubwäldern bei Buchen, Folgezersetzer, Sommer bis Spätherbst, sehr selten"
+        "vorkommen": "Gern auf Brandstellen, Müllhalden, frischen Bodenaufschüttungen, Straßenneubauten auf nacktem, mineralreichem, sandigem Boden, selten in Laubwäldern bei Buchen, Folgezersetzer, Sommer bis Spätherbst, sehr selten"
     },
     {
         "wissenschaftlicher_name": "PHYLLOPORUS PELLETIERI",
@@ -13356,7 +13356,7 @@
         "name": "Goldrisspilz",
         "geruch": "Unbedeutend bis etwas spermatisch",
         "geschmack": "Mild",
-        "hut": "1-3 (4) cm Ø, goldgelb, strohgelb, gelborange leuchtend, glatt und anliegend feinfaserig,\ufeff radialrissig, faserschuppig, Rand mit Velumresten, Mitte gebuckelt, meist dunkler goldbraun",
+        "hut": "1-3 (4) cm Ø, goldgelb, strohgelb, gelborange leuchtend, glatt und anliegend feinfaserig, radialrissig, faserschuppig, Rand mit Velumresten, Mitte gebuckelt, meist dunkler goldbraun",
         "fleisch": "Weißlich",
         "stiel": "Weiß bis schmutzig weißbräunlich, gelbbräunlich +/- etwas weiß-genattert, meist nur oben bereift",
         "lamellen": "Weiß bis schmutzig-weißlich, alt bräunlich",
@@ -13658,7 +13658,7 @@
         "fleisch": "Sahnefarben, hellocker, später grauend",
         "stiel": "3-5 (6) cm lang, 8-13 (20) mm Ø dick, ockerbraun, oft gefleckt, fein runzelig und grubig, zuerst ausgefüllt, später hohl, Spitze verdickt, Basis gebogen und verschmälert zugespitzt",
         "lamellen": "Ockergelb, hell gelborange, schmal, sehr gedrängt stehend, zart aderig verbunden, zerbrechlich. Auf Druck langsam grauend",
-        "vorkommen": "Mischwald, gern Eichen- und Korkeichen, Waldränder, häufiger im immergrünen regenreichen Mittelmeergebiet wie in Südfrankreich, Italien, Kroatien, Spanien\u0085, Mitteleuropa selten, sauren als auch in basischen Böden wachsend, wärmeliebend, Symbiosepilz, Sommer bis Spätherbst"
+        "vorkommen": "Mischwald, gern Eichen- und Korkeichen, Waldränder, häufiger im immergrünen regenreichen Mittelmeergebiet wie in Südfrankreich, Italien, Kroatien, Spanien, Mitteleuropa selten, sauren als auch in basischen Böden wachsend, wärmeliebend, Symbiosepilz, Sommer bis Spätherbst"
     },
     {
         "wissenschaftlicher_name": "ENTOLOMA GLOBULIFERUM",
@@ -13997,7 +13997,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Weiß, gelblich, beige",
         "stiel": "Fehlt bzw. sehr kurz und kaum sichtbar",
-        "vorkommen": "Auf toten alten dickeren Ästen, Stümpfen, Zweigen, meist Laubbäume wie Buchen, Birke, Eichen\u0085 Fagus oder Betula, Fraxinus, Sorbus, Hedera, Ilex, usw\u0085, Folgezersetzer, rasig wachsend, ganzjährig"
+        "vorkommen": "Auf toten alten dickeren Ästen, Stümpfen, Zweigen, meist Laubbäume wie Buchen, Birke, Eichen Fagus oder Betula, Fraxinus, Sorbus, Hedera, Ilex, usw, Folgezersetzer, rasig wachsend, ganzjährig"
     },
     {
         "wissenschaftlicher_name": "BJERKANDERA FUMOSA",
@@ -14008,7 +14008,7 @@
         "hut": "2-20 (30) cm Ø, 0,5 -3 (3,5) cm dick an der Anwachsstelle, blass weißlich, mittelbraun, gelblich, holzbraun, später graubraun werdend, unregelmäßig gefleckt, kaum gezont, manchmal etwas fleckig, auf einer stielähnlichen Anschwellung sitzend mit konzentrischen welligen Furchen, Zuwachskante weiß, Oberfläche ziemlich kahl. Habitus halbkreisförmig bis konsolenförmig in Gruppen nebeneinander und übereinander verwachsen",
         "fleisch": "Blassbraun, hell cremefarben, gleichmäßige Farbe der Röhrenschicht",
         "stiel": "Fehlt, flach angewachsen am Substrat",
-        "vorkommen": "An abgestorbenem Laubholz, an geschwächten Bäumen wie Esche, Ahorn, Weide, Pappel\u0085, Folgezersetzer, Weißfäuleauslöser, ganzjährig, selten"
+        "vorkommen": "An abgestorbenem Laubholz, an geschwächten Bäumen wie Esche, Ahorn, Weide, Pappel, Folgezersetzer, Weißfäuleauslöser, ganzjährig, selten"
     },
     {
         "wissenschaftlicher_name": "COPRINELLUS LIMICOLA (",
@@ -14070,7 +14070,7 @@
         "name": "Graugrüner Reiftäubling",
         "geruch": "Obstartig",
         "geschmack": "Mild, in den Lamellen etwas schärflich",
-        "hut": "3-7 (9) cm Ø, graugrün, blaugrün-grau, olivgrün, braungrün, blass stahlgrau, bereift, schwach gebuckelt, Mitte und Rand fein felderig-aufzureißen, glatt, weniger samtig als der Hutrand, meist etwas heller, Huthaut zu \u00bc abziehbar, feucht klebrig",
+        "hut": "3-7 (9) cm Ø, graugrün, blaugrün-grau, olivgrün, braungrün, blass stahlgrau, bereift, schwach gebuckelt, Mitte und Rand fein felderig-aufzureißen, glatt, weniger samtig als der Hutrand, meist etwas heller, Huthaut zu ¼ abziehbar, feucht klebrig",
         "fleisch": "Weiß, alt etwas gilbend",
         "stiel": "4-8 (11) cm lang, 1-3 (4) cm Ø dick, weiß, fein längsaderig, jung auch bereift, alt Basis bräunend",
         "lamellen": "Cremefarben, angewachsen, oft runzelig geadert und gegabelt, nicht untermischt, dicht stehend",
@@ -14098,9 +14098,9 @@
         "name": "Grauhäutiger Scheidenstreifling",
         "geruch": "Unbedeutend, neutral",
         "geschmack": "Mild, roh giftig (unbekömmlich) = keine Kostversuche!",
-        "hut": "3-10 (13) cm Ø, graubraun, rötlichbraun, braunoliv, grauocker, olivgrün, oft mit grauen Hüllresten, sogar oft so grünlich wie der Grüne Knollenblätterpilz (T\u00d6DLICH GIFTIG). Rand blasser, mit starken Rillen (Riefung) des Hutrandes von ca. 1/3 des Hut-Radiuses, flach ausbreitend aber immer mit kleinem Buckel, Huthaut vereinzelt mit grauen Velumresten",
+        "hut": "3-10 (13) cm Ø, graubraun, rötlichbraun, braunoliv, grauocker, olivgrün, oft mit grauen Hüllresten, sogar oft so grünlich wie der Grüne Knollenblätterpilz (TÖDLICH GIFTIG). Rand blasser, mit starken Rillen (Riefung) des Hutrandes von ca. 1/3 des Hut-Radiuses, flach ausbreitend aber immer mit kleinem Buckel, Huthaut vereinzelt mit grauen Velumresten",
         "fleisch": "Weiß bis leicht gelblich",
-        "stiel": "5-12 (14) cm lang, 5-12 (15) mm Ø dick, weiß bis graubraun genattert, flockig, nach oben verjüngt, im Alter hohl, gegen Stielbasis graugelblich genattert, Volva grauweiß, später grau werdend, \u00b1 gleichmäßig zylindrisch",
+        "stiel": "5-12 (14) cm lang, 5-12 (15) mm Ø dick, weiß bis graubraun genattert, flockig, nach oben verjüngt, im Alter hohl, gegen Stielbasis graugelblich genattert, Volva grauweiß, später grau werdend, ± gleichmäßig zylindrisch",
         "lamellen": "Weiß, von frei bis fein angewachsen",
         "vorkommen": "Mischwald, Heidelbeere, meist Nadelbäume, Fichte, Tanne, Lärche, seltener Laubbäume wie Birke, Buche, Hasel, Symbiosepilz, oft auf sauren Boden, Frühsommer bis Herbst"
     },
@@ -14322,7 +14322,7 @@
     {
         "wissenschaftlicher_name": "NITSCHKIA GREVILLEI (SYN. MELANOPSAMMA GREVILLII, CALYCULOSPHAERIA GREVILLEI, CALYCULOSPHAERIA GREVILLII, MELANOPSAMMA GREVILLII)",
         "speisewert": "F - ungenießbar",
-        "name": "Greville\u00b4s Schwarzbecher-Kernpilz",
+        "name": "Greville's Schwarzbecher-Kernpilz",
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "Schwarzbraun",
@@ -14395,7 +14395,7 @@
         "name": "Großblatt-Lungenflechte",
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
-        "fleisch": "Graubraun (18-23 x 4-7 \u00b5m)",
+        "fleisch": "Graubraun (18-23 x 4-7 µm)",
         "vorkommen": "Auf der Rinde (Borke), seltener auf Gestein oder Boden, Symbiosepilz, ganzjährig, sehr selten"
     },
     {
@@ -15004,7 +15004,7 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "Gelblich",
-        "vorkommen": "Gesellig bis gedrängt auf blanke Holzbalken, Rinde, gern Ahorn, Apfel, Ulme, Esche, Birke\u0085, an nährstoffangereicherten staubimprägnierten Baumstämmen, etwas schattige Zonen, gerne im Bodenbereich wo Hunde urinieren. Symbiosepilz, ganzjährig, selten"
+        "vorkommen": "Gesellig bis gedrängt auf blanke Holzbalken, Rinde, gern Ahorn, Apfel, Ulme, Esche, Birke, an nährstoffangereicherten staubimprägnierten Baumstämmen, etwas schattige Zonen, gerne im Bodenbereich wo Hunde urinieren. Symbiosepilz, ganzjährig, selten"
     },
     {
         "wissenschaftlicher_name": "PELTIGERA LEUCOPHLEBIA",
@@ -15246,7 +15246,7 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "Gelblich",
-        "stiel": "Fehlt, am Substrat Erde, Mist, Kot\u0085 aufsitzend",
+        "stiel": "Fehlt, am Substrat Erde, Mist, Kot aufsitzend",
         "vorkommen": "Auf Kot, Mist, durch Gülleresten getränkte Erde, Schaf- Reh-, Wildschwein- und Hasenkot, Folgezersetzer, Frühling bis Spätherbst, sehr selten"
     },
     {
@@ -15255,7 +15255,7 @@
         "name": "Grüngelber Nabeling",
         "geruch": "Unbedeutend bis schwach rettichartig, krautartig",
         "geschmack": "Mild",
-        "hut": "1-3 (4) cm Ø, gelb, olivgelb, grüngelb, feinfaserig, Rand heller, fein durchscheinend gerieft, erst alt genabelt. \u0085später immer genabelt!",
+        "hut": "1-3 (4) cm Ø, gelb, olivgelb, grüngelb, feinfaserig, Rand heller, fein durchscheinend gerieft, erst alt genabelt. später immer genabelt!",
         "fleisch": "Gelblich, graugelblich, hellgelb, dünn",
         "stiel": "Blass-gelb, grüngelb, Basis etwas myzel-striegelig, hohl, glatt, fein längsstreifig-gerieft",
         "lamellen": "Gelb, blass gelblich, dicklich, angewachsen, weit herablaufend",
@@ -15365,7 +15365,7 @@
         "fleisch": "Weißlich, in der Stielrinde graubeige und oft etwas orangebraun verfärbend, faserig",
         "stiel": "Hellbraun, grün geschuppt, trocken, mit kleiner abgesetzter (bis rübenartiger) Verdickung an der Basis, mit grünlicher angedeuteter Ringzone, oberhalb cremefarben bis beige und +/- orangebraun verfärbt. Jung mit gegürteltem Aussehen. Später reißt dieser Gürtel auf und bildet schuppige Zonen",
         "lamellen": "Weiß, grau, cremegrau, alt mit schwachem Olivton, frei, Schneiden glatt, weiß",
-        "vorkommen": "Mischwald, Parks, gern bei Esche, Buche, Linde, Eiche, Ahorn, Hainbuche, Birke, Haselnuss\u0085, Folgezersetzer, Sommer bis Spätherbst, selten, RL Schweiz (NT = potenziell gefährdet), RL-G Deutschland (GEFÄHRDUNG unbekannten Ausmaßes)"
+        "vorkommen": "Mischwald, Parks, gern bei Esche, Buche, Linde, Eiche, Ahorn, Hainbuche, Birke, Haselnuss, Folgezersetzer, Sommer bis Spätherbst, selten, RL Schweiz (NT = potenziell gefährdet), RL-G Deutschland (GEFÄHRDUNG unbekannten Ausmaßes)"
     },
     {
         "wissenschaftlicher_name": "STROPHARIA AERUGINOSA (SYN. STROPHARIA ALPINA, STROPHARIA AERUGINOSA VAR. EXSQUAMOSA, STROPHARIA AERUGINOSA VAR. EARTHWORMIA, STROPHARIA AERUGINOSA ",
@@ -15462,7 +15462,7 @@
         "name": "Gurkenschnitzling"
     },
     {
-        "wissenschaftlicher_name": "EXIDIOPSIS EFFUSA (SYN. SEBACINA EFFUSA, EXIDIOPSIS GRISEA VAR. EFFUSA, EXIDIOPSIS QUERCINA, SEBACINA QUERCINA, SEBACINA PERITRICHA, SEBACINA LACCATA, SPEC\u0085",
+        "wissenschaftlicher_name": "EXIDIOPSIS EFFUSA (SYN. SEBACINA EFFUSA, EXIDIOPSIS GRISEA VAR. EFFUSA, EXIDIOPSIS QUERCINA, SEBACINA QUERCINA, SEBACINA PERITRICHA, SEBACINA LACCATA, SPEC",
         "speisewert": "F - ungenießbar",
         "name": "Haareis",
         "geruch": "Neutral",
@@ -15598,7 +15598,7 @@
         "geschmack": "Mild, alt in den Astspitzen bitterlich",
         "fleisch": "Weiß, fest, etwas marmoriert, fleischig",
         "stiel": "Untere Äste schmutzig weißlich, obere Äste weinrot bis ockerrotbraun, Spitzen kurz abgestutzt, gezähnelt",
-        "vorkommen": "Laubwald, gerne Buche, zerstreut zwischen Nadeln, Laub oder Moosen, Sommer bis Spätherbst, selten, RL Schweiz (VU = verletzlich), in manchen Regionen \u00d6sterreichs häufiger, RL2 Deutschland (stark gefährdet)"
+        "vorkommen": "Laubwald, gerne Buche, zerstreut zwischen Nadeln, Laub oder Moosen, Sommer bis Spätherbst, selten, RL Schweiz (VU = verletzlich), in manchen Regionen Österreichs häufiger, RL2 Deutschland (stark gefährdet)"
     },
     {
         "wissenschaftlicher_name": "BOVISTA POLYMORPHA",
@@ -16082,7 +16082,7 @@
         "name": "Heimans Häubling",
         "geruch": "Unbedeutend bis leicht rettichartig",
         "geschmack": "Mild, widerlich, holzartig, niemals probieren! Kostprobe kann zu schweren Organschäden führen",
-        "hut": "1-4 (5) cm Ø, orangegelb, hell- bis dunkelbraun, gelbbraun, ausbleichend (hygrophan), Mitte dunkler rotbraun, dazwischen gelbbraun, +/- gebuckelt, Rand zur Mitte \u00be fein durchscheinend gerieft, jung eingebogen, mit weißen Schleierresten. Habitus konisch oder glockenförmig, breit konvex mit gewundenem, gezackertem oder leicht welligem Rand",
+        "hut": "1-4 (5) cm Ø, orangegelb, hell- bis dunkelbraun, gelbbraun, ausbleichend (hygrophan), Mitte dunkler rotbraun, dazwischen gelbbraun, +/- gebuckelt, Rand zur Mittefein durchscheinend gerieft, jung eingebogen, mit weißen Schleierresten. Habitus konisch oder glockenförmig, breit konvex mit gewundenem, gezackertem oder leicht welligem Rand",
         "fleisch": "Dünn, bräunlich (gelbbraun, dunkel rotbraun bis schwarzbraun)",
         "stiel": "1-3 (4) cm lang, 1-4 (5) mm Ø dick, rotbraun, faserige, ohne Manschette, nur angedeutete Ringzone, weißlich seidig-faserig, silbrig (= Schleierreste), Spitze oft etwas heller rotbraun bis ockerbraun, verjüngt, mehlig bereift, +/- faserig-hohl, Basis +/- weißlich-faserig, niemals schuppig, darunter dunkel rotbraun, schwarzbraun",
         "lamellen": "Hellbraun, orangegelb, orangebraun, beigeorange bis zimtbraun, angeheftet, leicht ausgebuchtet, eventuell +/- leicht mit Zahn herablaufend, dick, weit auseinander stehend",
@@ -17025,7 +17025,7 @@
         "fleisch": "Weiß nicht verfärbend, zäh, elastisch",
         "stiel": "10-12 (15) cm lang, 1-2 (3) cm Ø, weiß bis hellgelb mit rübenartig, nur geringe knollige Verdickung mit warziger Basis, auch mit häutiger Volva, schnell hohl werdend. Wichtig! Keine häutige Scheide sondern warziger Gürtel (Kindersöckchen). Spitze ist leicht vom Hutfleisch abtrennbar",
         "lamellen": "Weiß, cremeweiß, alt hell cremefarben, gedrängt, meist frei, selten auch ausgebuchtet angewachsen, mit Zwischenlamellen, Schneiden bisweilen fein weiß beflockt (Lupe)",
-        "vorkommen": "Bei Laubbäumen, gern Buche, Hasel, Eiche, Birke, vereinzelt auch im Nadelwald bei Kiefer usw\u0085, meist saurer Boden, wärmeliebend, Symbiosepilz, Sommer bis Herbst, sehr selten, RL-G Deutschland (GEFÄHRDUNG unbekannten Ausmaßes)"
+        "vorkommen": "Bei Laubbäumen, gern Buche, Hasel, Eiche, Birke, vereinzelt auch im Nadelwald bei Kiefer usw, meist saurer Boden, wärmeliebend, Symbiosepilz, Sommer bis Herbst, sehr selten, RL-G Deutschland (GEFÄHRDUNG unbekannten Ausmaßes)"
     },
     {
         "wissenschaftlicher_name": "CETRARIA ISLANDICA (SYN. LICHEN ISLANDICUS) ",
@@ -18022,13 +18022,13 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "Gelblich",
-        "stiel": "Fehlt, am Substrat Mist, Kot\u0085 aufsitzend",
+        "stiel": "Fehlt, am Substrat Mist, Kot aufsitzend",
         "vorkommen": "Auf Kot, Mist von Pflanzenfressern, Kühen, Schafe und Pferden, Folgezersetzer, Sommer bis Herbst"
     },
     {
         "wissenschaftlicher_name": "OTIDEA TUOMIKOSKII (SYN. OTIDEA PAPILLATA, OTIDEA PAPILLATA F. PALLIDEFURFURACEA)",
         "speisewert": "F - ungenießbar",
-        "name": "Kleiiger \u00d6hrling",
+        "name": "Kleiiger Öhrling",
         "geruch": "Würzig, pilzig",
         "geschmack": "Angenehm, mild, mandelartig",
         "fleisch": "Hellbraun, gelbbraun, dünn, brüchig",
@@ -18074,7 +18074,7 @@
         "geschmack": "Mild, roh giftig",
         "fleisch": "Weißlich, hellgrau, brüchig, dünn",
         "stiel": "0,5-1 cm lang, weißlich, hellgrau bis blass nussbraun, +/- gefurcht, hohl",
-        "vorkommen": "Mischwald, Wegrändern, Waldboden, auf sandigen Boden, gesellig bis einzeln, +/- auch zusammengewachsen, Folgezersetzer, häufiger in mediterranen Gebieten, wärmeliebend, Spätherbst bis Frühling, extrem selten in Deutschland, \u00d6sterreich und Schweiz"
+        "vorkommen": "Mischwald, Wegrändern, Waldboden, auf sandigen Boden, gesellig bis einzeln, +/- auch zusammengewachsen, Folgezersetzer, häufiger in mediterranen Gebieten, wärmeliebend, Spätherbst bis Frühling, extrem selten in Deutschland, Österreich und Schweiz"
     },
     {
         "wissenschaftlicher_name": "PUNCTELIA ",
@@ -18082,7 +18082,7 @@
         "name": "Kleine Punktflechte",
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
-        "fleisch": "Grünbraun (13-14 x 5-8 \u00b5m)",
+        "fleisch": "Grünbraun (13-14 x 5-8 µm)",
         "vorkommen": "Auf Baumrinde von freistehenden Laubbäumen, Symbiosepilz, ganzjährig"
     },
     {
@@ -18691,7 +18691,7 @@
         "name": "Kohlentäubling",
         "geruch": "Neutral bis angenehm pilzig-fruchtig",
         "geschmack": "Schärflich, bei der Varietät RUSSULA ANTHRACINA VAR. INSIPIDA mild, in den Lamellen schärflich",
-        "hut": "4-12 (15) cm Ø, jung weiß, braungrau, später schwarzbraun bis schwarz, glatt, matt, teilweise feinkörnig, Haut max. 1/6 (\u2153 im Radius) abziehbar, Mitte vertieft, trichterförmig, Randzone ungerieft",
+        "hut": "4-12 (15) cm Ø, jung weiß, braungrau, später schwarzbraun bis schwarz, glatt, matt, teilweise feinkörnig, Haut max. 1/6 (⅓ im Radius) abziehbar, Mitte vertieft, trichterförmig, Randzone ungerieft",
         "fleisch": "Weiß, sofort schwärzend, oft mit violett-schwarzem Ton, hart",
         "stiel": "3-7 (8) cm lang, 1-2,5 (3) cm Ø dick, weiß, bei Verletzung schwärzend ohne vorher zu röten",
         "lamellen": "Weißlich, cremeweiß mit rosabraunem Ton, Schneiden im Alter schwarz, dicht stehend",
@@ -18766,7 +18766,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Gelblich bis schwarz",
         "stiel": "Fehlt, auf dem Substrat aufliegend",
-        "vorkommen": "Auf Laubholz, gern weiden, parasitär und nur auf unbehandeltem Holz, häufiger in England, Slowenien, Kroatien, Italien\u0085, gern in höheren Regionen > 500 m, ganzjährig, extrem selten"
+        "vorkommen": "Auf Laubholz, gern weiden, parasitär und nur auf unbehandeltem Holz, häufiger in England, Slowenien, Kroatien, Italien, gern in höheren Regionen > 500 m, ganzjährig, extrem selten"
     },
     {
         "wissenschaftlicher_name": "BUTYRIBOLETUS REGIUS (SYN. BOLETUS REGIUS)",
@@ -18878,7 +18878,7 @@
         "geschmack": "Mild",
         "fleisch": "Hellbraun, gelbbraun, brüchig, dünn",
         "stiel": "Sehr kurz, meist fehlend",
-        "vorkommen": "Gärten, Blumentöpfe, auf Erde, Pflanzenresten oder Kot von Wiederkäuern, Kuhmist, Pferdemist\u0085, Folgezersetzer, Frühjahr bis Herbst"
+        "vorkommen": "Gärten, Blumentöpfe, auf Erde, Pflanzenresten oder Kot von Wiederkäuern, Kuhmist, Pferdemist, Folgezersetzer, Frühjahr bis Herbst"
     },
     {
         "wissenschaftlicher_name": "MELANOHALEA EXASPERATULA (SYN. MELANELIA EXASPERATULA, PARMELIA EXASPERATULA)",
@@ -18929,7 +18929,7 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "Gelblich",
-        "vorkommen": "Holz, Bitumen, Mauerwerk, auf Laubbäumen, besonders auf leicht sauren und mäßig eutrophierten Rinden am Stamm freistehender Bäume wie Eiche, Linde, Ahorn, Obstbäume, Esche, Birke usw\u0085, sehr selten auf Gestein, stellt Symbiose zwischen Pilz und Algen dar, sehr resistent gegen Umweltgifte, ganzjährig, selten"
+        "vorkommen": "Holz, Bitumen, Mauerwerk, auf Laubbäumen, besonders auf leicht sauren und mäßig eutrophierten Rinden am Stamm freistehender Bäume wie Eiche, Linde, Ahorn, Obstbäume, Esche, Birke usw, sehr selten auf Gestein, stellt Symbiose zwischen Pilz und Algen dar, sehr resistent gegen Umweltgifte, ganzjährig, selten"
     },
     {
         "wissenschaftlicher_name": "GALLOWAYELLA FULVA (",
@@ -19440,7 +19440,7 @@
         "fleisch": "Hellbraun",
         "stiel": "Braun, rostbraun, relativ lang, faserig, bereift, Basis weißlich vom Myzel",
         "lamellen": "Gelblich, gelbbraun, rötlich, rostbraun, ziemlich breit, am Grund fein mit Zahn angewachsen, viele Zwischenlamellen, Schneiden meist etwas blasser",
-        "vorkommen": "Verrottetem Totholz, meist braunfaulem Nadelholz wie Fichte, Tanne, meist nur in höheren Mittelgebirgslagen, Folgezersetzer, Sommer bis Spätherbst, sehr selten. Einige Vorkommen im Bayerischen Wald \u0096 Nationalpark, in Tschechien steht er auf der roten Liste Kat. DD"
+        "vorkommen": "Verrottetem Totholz, meist braunfaulem Nadelholz wie Fichte, Tanne, meist nur in höheren Mittelgebirgslagen, Folgezersetzer, Sommer bis Spätherbst, sehr selten. Einige Vorkommen im Bayerischen Wald  Nationalpark, in Tschechien steht er auf der roten Liste Kat. DD"
     },
     {
         "wissenschaftlicher_name": "REPETOBASIDIUM VESTITUM",
@@ -19847,7 +19847,7 @@
     {
         "wissenschaftlicher_name": "CYSTOLEPIOTA ERIOPHORA (SYN. LEPIOTA ERIOPHORA, LEPIOTA PSEUDOASPERULA, ECHINODERMA PSEUDOASPERULUM, CYSTOLEPIOTA PSEUDOASPERULA)",
         "speisewert": "Giftig",
-        "name": "Langes\u00b4s Stachelschirmling",
+        "name": "Langes's Stachelschirmling",
         "geruch": "Angenehm pilzartig, würzig",
         "geschmack": "Mild",
         "hut": "2-6 (8) cm Ø, fleischbraun, braune Stacheln auf cremefarbenen Grund, im Alter und zum Rand abflachend",
@@ -19984,7 +19984,7 @@
         "hut": "4-12 (18) cm Ø, hellbraun, rotbraun, ausblassend (hygrophan) und weiß erscheinend, relativ glatt, Mitte meist leicht eingedrückt oder leicht gebuckelt, Rand feucht +/- durchscheinend gerieft",
         "fleisch": "Fleischrosa, rotbraun, dünn",
         "stiel": "8-20 (25) cm hoch, 6-10 (20) mm Ø dick, rötlich, weißlich längs gefasert, ähnlich dem Gifthäubling, verdreht, wellig verbogen, schnell hohl werdend",
-        "lamellen": "Weißlich mit Hauch rötlich, fleischrötlich, rosabraun, +/- einen leichter Blauton, auch wenn Hut schon weiß gefärbt ist, bleibt die Lamellenfarbe \u0084etwas rosa Hauch\u0093 erhalten, oft bogenförmig, dick und wachsartig, ausgebuchtet angewachsen, etwas mit Zahn herablaufend, viele kurzen Zwischenlamellen",
+        "lamellen": "Weißlich mit Hauch rötlich, fleischrötlich, rosabraun, +/- einen leichter Blauton, auch wenn Hut schon weiß gefärbt ist, bleibt die Lamellenfarbe etwas rosa Hauch erhalten, oft bogenförmig, dick und wachsartig, ausgebuchtet angewachsen, etwas mit Zahn herablaufend, viele kurzen Zwischenlamellen",
         "vorkommen": "Mischwald, Nadelwald, gern bei Fichten, Tannen und Birken, in Gebüsch und bei feuchten Stellen, meist auf saurem Boden, gesellig, Symbiosepilz, Frühsommer bis Spätherbst"
     },
     {
@@ -20326,7 +20326,7 @@
     {
         "wissenschaftlicher_name": "OTIDEA ALUTACEA (SYN. PEZIZA ALUTACEA, SCODELLINA ALUTACEA, PEZIZA ALUTACEA VAR. OCHRACEA, PLICARIA ALUTACEA, ALEURIA ALUTACEA, PEZIZA COCHLEATA F. OCHRACEA, OTIDEA ALUTACEA VAR. PARVISPORA)",
         "speisewert": "F - ungenießbar",
-        "name": "Ledergelber \u00d6hrling"
+        "name": "Ledergelber Öhrling"
     },
     {
         "wissenschaftlicher_name": "SPATHULARIA NEESII",
@@ -20371,7 +20371,7 @@
     {
         "wissenschaftlicher_name": "WYNNELLA SILVICOLA",
         "speisewert": "F - ungenießbar",
-        "name": "Lederiger \u00d6hrling",
+        "name": "Lederiger Öhrling",
         "geruch": "Unbedeutend",
         "geschmack": "Mild, roh giftig",
         "fleisch": "Weiß-gelb, hellbraun, zäh, elastisch",
@@ -20824,7 +20824,7 @@
         "geruch": "Angenehm, pilzig, süßlich, anisartig oder auch neutral",
         "geschmack": "Mild, roh blutzersetzend (enthält Hämolysine)",
         "hut": "4-15 (20) cm Ø, nie reinweiß, sondern milchweiß bis elfenbeinweiß, cremeweiß, grauweiß, hellbeige, fettig glänzend, etwas kleiner, zarter und dünnfleischiger als der Austernseitling. Rand lange eingerollt, später gewellt",
-        "fleisch": "Weiß, etwas wässrig, jung weich und etwas fluffig, alt zähelastisch, zum Stiel korkig bis lederig, keine Farbveränderung bei Verletzung (Druck), Vergleich: Huthautstärke Lungenseitling 40-50 \u00b5m zu Gegensatz Austernseitling 90-120 \u00b5m",
+        "fleisch": "Weiß, etwas wässrig, jung weich und etwas fluffig, alt zähelastisch, zum Stiel korkig bis lederig, keine Farbveränderung bei Verletzung (Druck), Vergleich: Huthautstärke Lungenseitling 40-50 µm zu Gegensatz Austernseitling 90-120 µm",
         "stiel": "1-4 (5) cm lang, 0,5-1 (1,2) cm Ø dick, weiß, meist kurz seitlich bis exzentrisch, striegelig, selten ganz fehlend, Basis weißfilzig",
         "lamellen": "Weißlich bis cremefarben, alt gilbend, oft nur am Rand, untermischt, gedrängt, Schneiden glatt, am Stiel meist eher kurz herablaufend und selten mit aderigen Querverbindungen",
         "vorkommen": "Laubholz, gern Buche, Esche, Pappel, Birke, Folgezersetzer, Frühling bis Herbst, selten, RL Schweiz (NT = potenziell gefährdet), in Deutschland relativ häufig, nur einige Regionen mit RL 3 (gefährdet) definiert. Im Bayerischen Wald viele Fundstellen, dort nicht selten"
@@ -20847,7 +20847,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Hellgelb, gallertartig, transparent, durchsichtig, transluzent",
         "stiel": "Fehlt, auf dem Substrat aufliegend",
-        "vorkommen": "Gern liegendes entrindetes Totholz, auf faulen Stümpfen oder Ästen, gern Auwälder, Weiden usw\u0085, Folgezersetzer, Frühling bis Herbst"
+        "vorkommen": "Gern liegendes entrindetes Totholz, auf faulen Stümpfen oder Ästen, gern Auwälder, Weiden usw, Folgezersetzer, Frühling bis Herbst"
     },
     {
         "wissenschaftlicher_name": "LACTARIUS HELVUS (SYN. AGARICUS HELVUS, GALORRHEUS HELVUS, LACTIFLUUS HELVUS, AGARICUS TOMENTOSUS, LACTARIUS TOMENTOSUS, ",
@@ -21420,7 +21420,7 @@
         "fleisch": "Weiß, zerbrechlich",
         "stiel": "5-10 (12) cm lang, 1-2,5 (3) cm Ø dick, weiß, oberhalb des Rings oft genattert, Basis mit großer häutiger Volva und ohne Knolle. Spitze ist leicht vom Hutfleisch abtrennbar",
         "lamellen": "Weiß, entfernt stehend, gleichmäßig angeordnet, breit, bauchig, Schneiden weißlich fein-gezahnt und bewimpert, frei bis minimal angewachsen",
-        "vorkommen": "Weideland, \u00d6dland von verlassenen Plantagen, auf kompakten Boden, selten auch Mischwald, hier gerne bei Eiche, Buche und Kiefer, vermutlich Folgezersetzer, Sommer bis Herbst, RL2 Deutschland (stark gefährdet), häufiger in mediterranen Gebieten"
+        "vorkommen": "Weideland, Ödland von verlassenen Plantagen, auf kompakten Boden, selten auch Mischwald, hier gerne bei Eiche, Buche und Kiefer, vermutlich Folgezersetzer, Sommer bis Herbst, RL2 Deutschland (stark gefährdet), häufiger in mediterranen Gebieten"
     },
     {
         "wissenschaftlicher_name": "EFIBULA TUBERCULATA",
@@ -21866,7 +21866,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Schwarz",
         "stiel": "Fehlt, am Substrat aufliegend",
-        "vorkommen": "An Ästen, Stämmen von meist Buchen oder anderen Laubhölzern wie Eiche, Kastanie\u0085, Folgezersetzer, ganzjährig"
+        "vorkommen": "An Ästen, Stämmen von meist Buchen oder anderen Laubhölzern wie Eiche, Kastanie, Folgezersetzer, ganzjährig"
     },
     {
         "wissenschaftlicher_name": "ANTRODIA RAMENTACEA",
@@ -21978,7 +21978,7 @@
         "name": "Nacktfüßiger Rötling",
         "geruch": "Unbedeutend",
         "geschmack": "Mild",
-        "hut": "1-3 (4) cm Ø, graubraun, kastanienbraun, weißlich bereift, vereinzelt auch \u00be zur Mitte teils gebuckelt, faserig gerieft",
+        "hut": "1-3 (4) cm Ø, graubraun, kastanienbraun, weißlich bereift, vereinzelt auch zur Mitte teils gebuckelt, faserig gerieft",
         "fleisch": "Hellbraun, weich",
         "stiel": "Transparent wässrig ockerbraun, weißlich bereift, etwas faserig, weich",
         "lamellen": "Hell rosa, ausgebuchtet angewachsen, breit, dick",
@@ -22124,7 +22124,7 @@
     {
         "wissenschaftlicher_name": "OTIDEA ABIETINA (SYN. ",
         "speisewert": "Essbar 2 - guter Speisepilz",
-        "name": "Nadelwald-\u00d6hrling",
+        "name": "Nadelwald-Öhrling",
         "geruch": "Würzig, pilzig",
         "geschmack": "Angenehm, mild, leicht süßlich",
         "fleisch": "Hellbraun, gelbbraun, dünn, sehr brüchig",
@@ -22599,7 +22599,7 @@
         "fleisch": "Weißlich, in der Stielrinde etwas hell graurosa durchfärbt",
         "stiel": "Bis 3-6 (7) cm lang, 0,2-0,4 (0,5) cm Ø dick, rostbraun, an der Spitze wie Lamellen gefärbt, zur Basis dunkler graubraun bis rotbraun, mit purpur-weinbraunen Schüppchen",
         "lamellen": "Weiß bis orangeweiß, ausgebuchtet angewachsen, fast frei, schmal",
-        "vorkommen": "Meist Nadelwald, zwischen Moosen, nährstoffarmen Boden, Folgezersetzer, Sommer bis Spätherbst, extrem selten, nur von wenigen Funden in \u00d6sterreich wird berichtet"
+        "vorkommen": "Meist Nadelwald, zwischen Moosen, nährstoffarmen Boden, Folgezersetzer, Sommer bis Spätherbst, extrem selten, nur von wenigen Funden in Österreich wird berichtet"
     },
     {
         "wissenschaftlicher_name": "GERHARDTIA BOREALIS (SYN. ",
@@ -22730,7 +22730,7 @@
         "geschmack": "Unbedeutend",
         "hut": "1-25 (50) cm Ø, zitronengelb bis ockergelb, vereinzelt violettocker, wachsartig, weit ausgebreitet, der Unterlage angewachsen, mit halbkugeligen Körnchen besetzt, beim Eintrocknen knötchenförmig",
         "fleisch": "Gelb",
-        "vorkommen": "An Totholz, meist Laubholz, Birken, Weiden, Eschen\u0085, Folgezersetzer, ganzjährig"
+        "vorkommen": "An Totholz, meist Laubholz, Birken, Weiden, Eschen, Folgezersetzer, ganzjährig"
     },
     {
         "wissenschaftlicher_name": "CORTINARIUS SUBGRACILIS",
@@ -22885,14 +22885,14 @@
     {
         "wissenschaftlicher_name": "OMPHALOTUS OLEARIUS (SYN",
         "speisewert": "Giftig",
-        "name": "\u00d6lbaumpilz",
+        "name": "Ölbaumpilz",
         "geruch": "Nach Nadelholz, neutral bis unangenehm",
         "geschmack": "Mild, unangenehm",
         "hut": "3-11 (13) cm Ø, orangegelb, fuchsigbraun, Mitte jung leicht gebuckelt, später trichterförmig, vertieft, Rand lange eingerollt",
         "fleisch": "Gelblich bis orange, zäh, längsfaserig",
         "stiel": "5-15 (17) cm lang, 0,5-1,5 (2) cm Ø, hell orangebraun bis fuchsigbraun",
         "lamellen": "Leuchtend goldgelb, herablaufend, mit Zwischenlamellen, selten gegabelt (die Gabelung der Lamellen ist meist eine optische Täuschung der Zwischenlamellen)",
-        "vorkommen": "Laubholz, \u00d6lbaum, Eichen, Edelkastanien, Bambus, parasitisch oder saprobiontisch (Folgezersetzer) an Laubbäumen, wärmeliebend, in Europa meist nur im mediterranen Raum, Frühsommer bis Spätherbst, im südlichen Raum häufig, sonst sehr selten, RL Schweiz (EN = stark gefährdet)"
+        "vorkommen": "Laubholz, Ölbaum, Eichen, Edelkastanien, Bambus, parasitisch oder saprobiontisch (Folgezersetzer) an Laubbäumen, wärmeliebend, in Europa meist nur im mediterranen Raum, Frühsommer bis Spätherbst, im südlichen Raum häufig, sonst sehr selten, RL Schweiz (EN = stark gefährdet)"
     },
     {
         "wissenschaftlicher_name": "CORTINARIUS SCAURUS (SYN. CORTINARIUS SUBVIRENTOPHYLLUS, PHLEGMACIUM HERPETICUM VAR. FAGETICOLA)",
@@ -23049,7 +23049,7 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "Schmutzig weiß bis olivgrau, etwas gelatinös, knorpelig, wachsartig, weich, trocken zäh und hornartig",
-        "vorkommen": "Auf totem Holz von Laub- und Nadelbäume, gern altem Bauholz, Bretter usw\u0085, Folgezersetzer, Weißfäuleauslöser, ganzjährig, sehr selten"
+        "vorkommen": "Auf totem Holz von Laub- und Nadelbäume, gern altem Bauholz, Bretter usw, Folgezersetzer, Weißfäuleauslöser, ganzjährig, sehr selten"
     },
     {
         "wissenschaftlicher_name": "AMANITA OLIVACEOGRISEA ",
@@ -23203,7 +23203,7 @@
     {
         "wissenschaftlicher_name": "RESINOMYCENA SACCHARIFERA ",
         "speisewert": "F - ungenießbar",
-        "name": "\u00d6lzystiden-Helmling",
+        "name": "Ölzystiden-Helmling",
         "geruch": "Etwas muffig",
         "geschmack": "Mild",
         "hut": "2-5 (7) mm Ø, weiß, alt etwas gelblich, schnell verflachend, unförmig rund, bereift, leicht glasig",
@@ -23654,7 +23654,7 @@
         "name": "Orangeroter",
         "geruch": "Mehlig, auch gurkenartig, jedoch nicht so intensiv und weniger angenehm als bei normalen Maipilzen",
         "geschmack": "Mehlig, mild",
-        "hut": "3-8 (10) cm Ø, zuerst rotbraun, cremeockerbraun, ockerorange, später schmutzig weiß bis gelblich, fast immer mit leicht rötlichem Unterton, glatte Huthaut, Rand jung eingerollt, manchmal auch hygrophan (ausbleichend\u0085 Wasser verlierend), alt von der Mitte aus bräunlich schuppig werdend",
+        "hut": "3-8 (10) cm Ø, zuerst rotbraun, cremeockerbraun, ockerorange, später schmutzig weiß bis gelblich, fast immer mit leicht rötlichem Unterton, glatte Huthaut, Rand jung eingerollt, manchmal auch hygrophan (ausbleichend Wasser verlierend), alt von der Mitte aus bräunlich schuppig werdend",
         "fleisch": "Dick, fest, weiß, manchmal auch etwas gelblich, keine Verfärbung bei Verletzung, faserig",
         "stiel": "3-6 cm lang, weißlich bis gelblich, zylindrisch, faserig",
         "lamellen": "Weiß bis später gelblich, sehr dicht stehend, ausgebuchtet angewachsen, manchmal mit Zahn etwas herablaufend",
@@ -23810,12 +23810,12 @@
     {
         "wissenschaftlicher_name": "SARCOSCYPHA AUSTRIACA (SYN. ",
         "speisewert": "Essbar 5 - minderwertiger Mischpilz",
-        "name": "\u00d6sterreichischer Prachtbec",
+        "name": "Österreichischer Prachtbec",
         "geruch": "Neutral, unbedeutend",
         "geschmack": "Neutral, mild",
         "fleisch": "Weißlich bis hell-gelblich mit roter Innenschicht, wachsartig, dünn",
         "stiel": "2-3 (4) cm lang weißlich bis gelblich, Spitze rötlich, kurz, manchmal auch etwas länger ausgebildet",
-        "vorkommen": "Gern Auwälder, an Laubholzästen, Erlen, Weiden, Espen, seltener Linden\u0085 gern sandiger, kalkreicher Boden, Folgezersetzer (Saprophyt), Winter bis Mai"
+        "vorkommen": "Gern Auwälder, an Laubholzästen, Erlen, Weiden, Espen, seltener Linden gern sandiger, kalkreicher Boden, Folgezersetzer (Saprophyt), Winter bis Mai"
     },
     {
         "wissenschaftlicher_name": "GAUTIERIA OTTHII (SYN. GAUTIERIA GRAVEOLENS VAR. OTTHII)",
@@ -23961,7 +23961,7 @@
         "fleisch": "Weiß, leicht gelblich",
         "stiel": "Grünlich bis bräunlich",
         "lamellen": "Gelblich, dicht stehend, am Stiel ausgebuchtet angewachsen (Burggraben)",
-        "vorkommen": "Laubwald, meist bei Pappeln, Espen\u0085, Symbiosepilz, Sommer bis Spätherbst. In sandigen Kiefernwäldern wächst der Kiefernwaldgrünling (Tricholoma Auratum)"
+        "vorkommen": "Laubwald, meist bei Pappeln, Espen, Symbiosepilz, Sommer bis Spätherbst. In sandigen Kiefernwäldern wächst der Kiefernwaldgrünling (Tricholoma Auratum)"
     },
     {
         "wissenschaftlicher_name": "CORTINARIUS SERTIPES (SYN. ",
@@ -24918,7 +24918,7 @@
         "name": "Rasen-Häubling",
         "geruch": "Neutral",
         "geschmack": "Leicht bitterlich",
-        "hut": "1-3 (4) cm Ø, weißlich, cremegelb, orangebraun bis rostocker, hygrophan, glockig gewölbt, glatt, kahl, durchscheinend \u00be gerieft, Mitte oft etwas dunkler und gebuckelt, Rand ohne Velumreste",
+        "hut": "1-3 (4) cm Ø, weißlich, cremegelb, orangebraun bis rostocker, hygrophan, glockig gewölbt, glatt, kahl, durchscheinendgerieft, Mitte oft etwas dunkler und gebuckelt, Rand ohne Velumreste",
         "fleisch": "Weißlich, zur Basis hell gelbbraun",
         "stiel": "2-3 (4) cm hoch, 1-2 (3) mm Ø dick, weiß bis blassgelb, faserig-brüchig, Spitze bereift, dünn hohl, glatt, Basis oft bräunlich",
         "lamellen": "Strohgelb bis rotbraun, ausgebuchtet angewachsen",
@@ -25126,7 +25126,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Ockerbraun, zäh, gummiartig elastisch, nach dem Trocknen korkig bis hart und starr",
         "stiel": "Kein, auf dem Substrat aufliegend",
-        "vorkommen": "Gern auf totem Laubholz wie Eiche, Buche\u0085, auf Äste, Strünke, Folgezersetzer, ganzjährig, sehr selten, RL Schweiz (EN = stark gefährdet)"
+        "vorkommen": "Gern auf totem Laubholz wie Eiche, Buche, auf Äste, Strünke, Folgezersetzer, ganzjährig, sehr selten, RL Schweiz (EN = stark gefährdet)"
     },
     {
         "wissenschaftlicher_name": "MYCENELLA TRACHYSPORA (SYN. MYCENA TRACHYSPORA)",
@@ -26086,7 +26086,7 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "Orange, rosaorange, fleischig",
-        "stiel": "Fehlt, am Substrat Mist, Kot\u0085 aufsitzend",
+        "stiel": "Fehlt, am Substrat Mist, Kot aufsitzend",
         "vorkommen": "Auf Kot, Mist von Pflanzenfressern, Kühen, Schafe und Pferden, Folgezersetzer, Sommer bis Herbst"
     },
     {
@@ -26492,7 +26492,7 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "Graubraun, braunschwarz, grauschwarz",
-        "vorkommen": "An totem Laubholz, Zweige, Äste, gern Eichen, Hasel, Buche\u0085, Folgezersetzer, ganzjährig, sehr selten"
+        "vorkommen": "An totem Laubholz, Zweige, Äste, gern Eichen, Hasel, Buche, Folgezersetzer, ganzjährig, sehr selten"
     },
     {
         "wissenschaftlicher_name": "PUCCINIA URTICATA (Z.B",
@@ -27539,7 +27539,7 @@
         "vorkommen": "Mischwald, Parks, meist Eichen, selten Buchen, Symbiosepilz, Frühsommer bis Herbst, sehr selten, RL2 Deutschland (stark gefährdet)"
     },
     {
-        "wissenschaftlicher_name": "SYZYGOSPORA TUMEFACIENS, SYZYGOSPORA EFFIBULATA, SYZYGOSPORA MYCETOPHILA, HETEROCEPHALACRIA PHYSCIACEARUM (SYN. SYZYGOSPORA PHYSCIACEARUM, CHRISTIANSENIA TUMEFACIENS \u0085 USW\u0085 SPEC.)",
+        "wissenschaftlicher_name": "SYZYGOSPORA TUMEFACIENS, SYZYGOSPORA EFFIBULATA, SYZYGOSPORA MYCETOPHILA, HETEROCEPHALACRIA PHYSCIACEARUM (SYN. SYZYGOSPORA PHYSCIACEARUM, CHRISTIANSENIA TUMEFACIENS  USW SPEC.)",
         "speisewert": "F - ungenießbar",
         "name": "Rüblingsgalle",
         "geruch": "Neutral",
@@ -27650,7 +27650,7 @@
         "hut": "3-12 (15) cm Ø, dunkelbraun, alt graubraun ausblassend, wellig uneben, sattelförmig, Stiel mit Hut verwachsen",
         "fleisch": "Weißlich, alt gelblich, zäh, brüchig",
         "stiel": "5-8 (10) cm lang, zuerst weiß, später schmutzig weiß und teils zur Basis rosa bis rotbraun fleckig, dick, stämmig, zur Basis dünner, rötend, Spitze dicker verlaufend, breite Längsrippen, stark furchig",
-        "vorkommen": "Nur an feuchten Bergnadelwälder, in denen dicke Baumstämme (Fichte und Tanne) liegen bleiben oder an alten Stümpfen, die auf natürliche Weise verrotten, wie etwa im Nationalpark Bayerischer Wald, Folgezersetzer, Frühjahr bis Sommer, RL-R Deutschland (extrem selten), RL 2 \u00d6sterreich, Tschechien CR"
+        "vorkommen": "Nur an feuchten Bergnadelwälder, in denen dicke Baumstämme (Fichte und Tanne) liegen bleiben oder an alten Stümpfen, die auf natürliche Weise verrotten, wie etwa im Nationalpark Bayerischer Wald, Folgezersetzer, Frühjahr bis Sommer, RL-R Deutschland (extrem selten), RL 2 Österreich, Tschechien CR"
     },
     {
         "wissenschaftlicher_name": "INOCYBE OVATOCYSTIS (SYN",
@@ -27761,7 +27761,7 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "0,5-5 mm dick, aus konzentrischen Schichten aufgebaut, innen hell ockerfarben, außen bräunlich, auch lilafarben, auf Druck manchmal auch blutrot verfärbend, ledrig, korkig",
-        "vorkommen": "An alten Baumstümpfen oder Ästen, meist Laubholz, wie Buche, Eiche usw\u0085 aber auch gern an alten Weidenstämmen, Folgezersetzer, Weißfäuleauslöser, ganzjährig, Sporenbildung im Herbst"
+        "vorkommen": "An alten Baumstümpfen oder Ästen, meist Laubholz, wie Buche, Eiche usw aber auch gern an alten Weidenstämmen, Folgezersetzer, Weißfäuleauslöser, ganzjährig, Sporenbildung im Herbst"
     },
     {
         "wissenschaftlicher_name": "LACTIFLUUS RUGATUS ",
@@ -27875,7 +27875,7 @@
         "name": "Rußfarbener Milchling",
         "geruch": "Neutral bis etwas fruchtig",
         "geschmack": "Zuerst mild später scharf, auch bitterlich",
-        "hut": "2-8 (10) cm Ø, rehbraune, hirschbraune, hirschlederartige Oberfläche, trocken, matt, samtig, dünnfleischig, kein Spitzbuckel wie beim \u0084Mohrenkopf\u0093, Rand lange eingerollt, dünn, im Alter teilweise gekerbt",
+        "hut": "2-8 (10) cm Ø, rehbraune, hirschbraune, hirschlederartige Oberfläche, trocken, matt, samtig, dünnfleischig, kein Spitzbuckel wie beim Mohrenkopf, Rand lange eingerollt, dünn, im Alter teilweise gekerbt",
         "fleisch": "Weiß, rosa anlaufend, brüchig",
         "stiel": "Bräunlich (hellbraun, dunkelbraun) wie der Hut, Übergang zu den Lamellen hell, Stielbasis bei Anschnitt schnell von weißlich auf rosalich verfärbend",
         "lamellen": "Cremegelblich, cremeocker, Übergang zum Stiel hell, in Stielnähe viele gegabelt, mit Zwischenlamellen, Schneiden glatt",
@@ -28217,7 +28217,7 @@
         "hut": "4-9 (12) cm Ø, graubraun, rotbraun, filzig, unter der Huthaut leicht rosalich",
         "fleisch": "Hell-gelblich, leicht blauend, an der Basis leicht gelblich bis grünblau verfärbend",
         "stiel": "Gelblich mit bräunlicher Netzzeichnung (nur von Mitte bis Spitze) lang und schlank, verdreht, Mittelbereich braun-fleckig, Basis verdickt, meist heller, darunter zugespitzt",
-        "vorkommen": "Laubwald, besonders gern bei Buchen, Eichen\u0085, Symbiosepilz (Mykorrhizapilz), Sommer bis Herbst"
+        "vorkommen": "Laubwald, besonders gern bei Buchen, Eichen, Symbiosepilz (Mykorrhizapilz), Sommer bis Herbst"
     },
     {
         "wissenschaftlicher_name": "HYDNELLUM SPONGIOSIPES",
@@ -28559,7 +28559,7 @@
         "wissenschaftlicher_name": "LACTIFLUUS BERTILLONII (",
         "speisewert": "Giftig",
         "name": "Scharfmilchender Wollschwamm",
-        "geruch": "Unangenehm, stinkend, auch fischartig \u0096 toter Fisch",
+        "geruch": "Unangenehm, stinkend, auch fischartig  toter Fisch",
         "geschmack": "Sehr scharf",
         "hut": "5-18 (28) cm Ø, weiß, hell cremefarben, alt bräunlich fleckend, Rand lange eingerollt",
         "fleisch": "Weiß, langsam gelblich verfärbend",
@@ -28688,7 +28688,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Dunkelbraun, kastanienbraun bis leuchtend orangebraun, zäh, holzig",
         "stiel": "Fehlt, aus dem Substrat entspringend",
-        "vorkommen": "Toten Ästen, Strünken, Stämmen von Laubholz, gerne Birke, Walnuss usw\u0085, meist parasitär, aber auch als Folgezersetzer, Weißfäuleauslöser, ganzjährig, selten, RL Schweiz (VU = verletzlich)"
+        "vorkommen": "Toten Ästen, Strünken, Stämmen von Laubholz, gerne Birke, Walnuss usw, meist parasitär, aber auch als Folgezersetzer, Weißfäuleauslöser, ganzjährig, selten, RL Schweiz (VU = verletzlich)"
     },
     {
         "wissenschaftlicher_name": "PEZIZA SUCCOSELLA (SYN. GALACTINIA SUCCOSELLA)    ",
@@ -29414,7 +29414,7 @@
         "geschmack": "Neutral",
         "fleisch": "Weißlich, nicht verfärbend, etwas faserig",
         "stiel": "Fehlt, am Substrat angewachsen",
-        "vorkommen": "Laubholz, seltener Nadelholz an Koniferen, parasitär, Weißfäuleauslöser, Sommer bis Herbst, liebst mediterrane Verhältnisse, jedoch Funde im Wienerwald (\u00d6sterreich) sind ebenso bekannt, ansonsten sehr selten"
+        "vorkommen": "Laubholz, seltener Nadelholz an Koniferen, parasitär, Weißfäuleauslöser, Sommer bis Herbst, liebst mediterrane Verhältnisse, jedoch Funde im Wienerwald (Österreich) sind ebenso bekannt, ansonsten sehr selten"
     },
     {
         "wissenschaftlicher_name": "NORMANDINA PULCHELLA",
@@ -29672,7 +29672,7 @@
         "name": "Schuppiger Stielbovist",
         "geruch": "Unbedeutend",
         "geschmack": "Mild",
-        "fleisch": "Hellbraun (5,4- 6,5 x 4,7- 5,8\u00b5m)",
+        "fleisch": "Hellbraun (5,4- 6,5 x 4,7- 5,8µm)",
         "stiel": "Dunkelbraun schuppig-genattert auf rötlichen Grund, längsfaserig, oft gebogen, stark wurzelnd",
         "vorkommen": "Wälder, Rasen, Weinberge, Müllhalden, Dünen, gern auf Moose, Sandtrockenrasen, Heidelandschaften, immer auf nährstoffarmem Untergrund, gern sandigen Boden, Herbst bis Winter, auch ganzjährig zu finden, sehr selten oft gemeinsam mit Zitzenstielbovist findbar, sehr selten, RL Schweiz (EN), RL1 Deutschland (vom Aussterben bedroht)"
     },
@@ -29752,7 +29752,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Braun, orangebraun",
         "stiel": "Fehlt, auf dem Substrat aufliegend",
-        "vorkommen": "Auf Kräuterstängel, Grasstängeln, Koriander Anis, Fenchel\u0085 mit bloßem Auge kaum sichtbar, Folgezersetzer, Sommer bis Herbst"
+        "vorkommen": "Auf Kräuterstängel, Grasstängeln, Koriander Anis, Fenchel mit bloßem Auge kaum sichtbar, Folgezersetzer, Sommer bis Herbst"
     },
     {
         "wissenschaftlicher_name": "CLITOCYBE CATINUS",
@@ -30098,7 +30098,7 @@
         "fleisch": "Hellgelb, gelblich, grau-lila verfärbend, brüchig, dünn",
         "stiel": "Gelborange, gelbgrünlich, verdreht, faserig, schwärzend, Basis weißlich",
         "lamellen": "Gelb, zitronengelb, angeheftet, fast frei, alt schwärzend",
-        "vorkommen": "Wiesen, Gärten, Parks, an grasigen Plätzen, Sommer bis Spätherbst, relativ häufig in Niederbayern und \u00d6sterreich, sonst regional sehr selten, RL2 Deutschland (stark gefährdet)"
+        "vorkommen": "Wiesen, Gärten, Parks, an grasigen Plätzen, Sommer bis Spätherbst, relativ häufig in Niederbayern und Österreich, sonst regional sehr selten, RL2 Deutschland (stark gefährdet)"
     },
     {
         "wissenschaftlicher_name": "HYDROPUS",
@@ -30216,7 +30216,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Schwarzbraun, zäh-elastisch, gummiartig, alt dunkelbraun, lederartig, trocken fest homartig",
         "stiel": "Fehlt, in der Rinde verwachsen (eingesenkt)",
-        "vorkommen": "Auf Ästen von freistehenden Bäumen wie Weide, Edel-, Wild- oder Vogel-Kirsche, Esche, Linde, Pappel, Kastanie, Birnbaum, Eiche\u0085 parasitär oder folgezersetzend, ganzjährig, sehr selten"
+        "vorkommen": "Auf Ästen von freistehenden Bäumen wie Weide, Edel-, Wild- oder Vogel-Kirsche, Esche, Linde, Pappel, Kastanie, Birnbaum, Eiche parasitär oder folgezersetzend, ganzjährig, sehr selten"
     },
     {
         "wissenschaftlicher_name": "SAREA DIFFORMIS (SYN. BIATORELLA DIFFORMIS, CONIOTHYRIUM RESINAE, PEZIZA DIFFORMIS, RETINOCYCLUS ABIETIS, PATELLARIA DIFFORMIS, TYMPANIS ABIETIS, RETINOCYCLUS ABIETIS)",
@@ -30340,7 +30340,7 @@
         "name": "Schwarzgesäumter Brandstellenbecherling",
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
-        "hut": "2-9 (11) mm Ø, schmutzig orange, gelborange bis gelb, Rand umgebogen, bräunlich mit kurzen Haaren (4-6 \u00b5m breit) besetzt, dicht stehend aber nicht zusammenfließend, schüsselförmig",
+        "hut": "2-9 (11) mm Ø, schmutzig orange, gelborange bis gelb, Rand umgebogen, bräunlich mit kurzen Haaren (4-6 µm breit) besetzt, dicht stehend aber nicht zusammenfließend, schüsselförmig",
         "fleisch": "Gelborange",
         "stiel": "Fehlt, auf dem feuchten Holzkohle-Substrat aufsitzend",
         "vorkommen": "Auf feuchten Brandstellen, meist im Wald, Folgezersetzer, Frühling bis Spätherbst"
@@ -30393,7 +30393,7 @@
         "hut": "3-7 (8) cm Ø, blaugrün, dunkel blaugrün, olivgrün, grauoliv oder fast schwärzlich gefärbt, Haut 50% abziehbar, nicht hygrophan, Haut matt und fast samtig, leicht kleiig oder schuppig, zum Rand ein wenig fedrig aufspringend, Mitte schnell eingedellt",
         "fleisch": "Weiß und nicht verfärbend, brüchig",
         "stiel": "Weiß, leicht gilbend, bereift, fein runzelig, voll, fest, alt schwammig, Basis alt rostfleckig",
-        "lamellen": "Weiß bis hell cremegelb, gerade angewachsen, +/- herablaufend, biegsam \u0096 nicht brechend!",
+        "lamellen": "Weiß bis hell cremegelb, gerade angewachsen, +/- herablaufend, biegsam  nicht brechend!",
         "vorkommen": "Mischwald, Moorbirkenwälder, Auwald, Symbiosepilz, gern sandiger Boden, Frühsommer bis Spätherbst, sehr selten"
     },
     {
@@ -31686,7 +31686,7 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "Graublau, dünn",
-        "vorkommen": "Magerrasen oder sehr lichten Wäldern, \u00d6land, Heiden (gern auch Zwergstrauchheiden), Symbiosepilz, nur an lichtreichen Standorten, ganzjährig, sehr selten, häufiger in nördlichen Ländern, oft gemeinsam mit dem Isländisch Moos, sehr selten"
+        "vorkommen": "Magerrasen oder sehr lichten Wäldern, Öland, Heiden (gern auch Zwergstrauchheiden), Symbiosepilz, nur an lichtreichen Standorten, ganzjährig, sehr selten, häufiger in nördlichen Ländern, oft gemeinsam mit dem Isländisch Moos, sehr selten"
     },
     {
         "wissenschaftlicher_name": "AGARICUS BITORQUIS (SYN. PSALLIOTA PERONATA, PSALLIOTA EDULIS VAR. ",
@@ -31993,7 +31993,7 @@
         "name": "Stelzenstäubling",
         "geruch": "Unbedeutend",
         "geschmack": "Mild",
-        "hut": "4-12 (16) cm Ø, haselnussbraun, kastanienbraun, hellocker, oberhalb Staubkugel mit vielen \u00d6ffnungen",
+        "hut": "4-12 (16) cm Ø, haselnussbraun, kastanienbraun, hellocker, oberhalb Staubkugel mit vielen Öffnungen",
         "fleisch": "Bräunlich, rostbraun",
         "stiel": "Bräunlich, ockerbraun, lang schuppig-faserig, +/- genattert, zylindrisch, bis zu 20 cm hoch",
         "vorkommen": "Hänge, Böschungen, Weinberge, Müllhalden, Dünen, auf trockenen, sandigen Boden, häufiger in mediterranen Gebieten, Sommer bis Herbst, sehr selten, RL-R Deutschland (extrem selten)"
@@ -32006,7 +32006,7 @@
         "geschmack": "Mild",
         "fleisch": "Weißlich, grauweiß",
         "stiel": "Schmutzig-weiß, braunweiß, grauweiß, innen kammerig hohl",
-        "vorkommen": "Steppen, Graslandschaften, Wiesen, kalkreichen, tonhaltigen Boden, nicht moorigen Boden, häufiger in Osteuropa wie Ungarn, Ukraine, Russland usw\u0085Folgezersetzer, Frühjahr"
+        "vorkommen": "Steppen, Graslandschaften, Wiesen, kalkreichen, tonhaltigen Boden, nicht moorigen Boden, häufiger in Osteuropa wie Ungarn, Ukraine, Russland uswFolgezersetzer, Frühjahr"
     },
     {
         "wissenschaftlicher_name": "LYCOPERDON DECIPIENS (SYN. ",
@@ -32128,7 +32128,7 @@
         "geschmack": "Mild, würzig, pilzig, Würzpilz",
         "fleisch": "Weiß, später schmutziggrau, rostbraun, fleischig, später korkig",
         "stiel": "Kurz, fehlt fast, mit Myzelsträngen",
-        "vorkommen": "Mischwald, Waldwege, Wiesen, \u00d6dland, Weiden, Kiesgruben, an gedüngten, sandigen Stellen, Frühsommer bis Herbst, selten"
+        "vorkommen": "Mischwald, Waldwege, Wiesen, Ödland, Weiden, Kiesgruben, an gedüngten, sandigen Stellen, Frühsommer bis Herbst, selten"
     },
     {
         "wissenschaftlicher_name": "DIDERMA MONTANUM ",
@@ -32224,7 +32224,7 @@
         "geschmack": "Unangenehm, widerlich, dennoch mild",
         "hut": "2-6 (7) cm Ø, hellbraun, beigebraun, nie gänzlich weißlich, hell rotbraun, cremebraun bis ockerbraun, feinkörnig, stark aufgerichtet, schuppig, Rand filzig-faserig behangen, Hutmitte leicht buckelig",
         "fleisch": "Weißlich",
-        "stiel": "2-7 (8) cm lang und 3-6 (8)mm Ø, weißlich, cremeocker, beigebraun\u0085wie Hut gefärbt, mit nicht verschiebbarem hängendem Ring, oberhalb des Rings feinschuppig bis kahl, unterhalb des Rings körnig",
+        "stiel": "2-7 (8) cm lang und 3-6 (8)mm Ø, weißlich, cremeocker, beigebraunwie Hut gefärbt, mit nicht verschiebbarem hängendem Ring, oberhalb des Rings feinschuppig bis kahl, unterhalb des Rings körnig",
         "lamellen": "Weiß, zartrötlich, +/- gelblich, angeheftet, angewachsen, Schneiden wellig, mit Zwischenlamellen",
         "vorkommen": "Mischwald, häufiger im Nadelwald, fast ausschließlich bei Fichte, Folgezersetzer (Saprotroph), Sommer bis Herbst, häufig"
     },
@@ -32647,7 +32647,7 @@
         "hut": "5-20 (30) cm Ø, gelb bis gelbbraun, jung labyrinthisch, später stachel- bis lamellenartig übereinander konsolenförmig angeordnet, Oberfläche schnell weißlich ausblassend, Zuwachszonen weißlich",
         "fleisch": "Gelbbraun, zäh, alt hart",
         "stiel": "Fehlt, konsolenförmig angewachsen",
-        "vorkommen": "Meist Nadelbäume, in wärmeliebenden Regionen oder Botanischen Gärten, Hauptfundländer: Türkei, Tansania, Serbien, Spanien, Russland, Norwegen, Afrika, Äthiopien, USA\u0085, Braunfäuleauslöser, zerstört das Kernholz der Bäume, ganzjährig"
+        "vorkommen": "Meist Nadelbäume, in wärmeliebenden Regionen oder Botanischen Gärten, Hauptfundländer: Türkei, Tansania, Serbien, Spanien, Russland, Norwegen, Afrika, Äthiopien, USA, Braunfäuleauslöser, zerstört das Kernholz der Bäume, ganzjährig"
     },
     {
         "wissenschaftlicher_name": "COLLEMA SUBFLACCIDUM",
@@ -32874,7 +32874,7 @@
         "hut": "5-20 (30) cm Ø, jung gelblich, gelbbraun mit zottiger Oberfläche, im Alter dunkelbraun, rissig, fächer-, halbkreis- oder konsolenförmig",
         "fleisch": "Bräunlich, zäh, hart",
         "stiel": "Kein, am Substrat angewachsen",
-        "vorkommen": "An Tamarisken (TAMERIX) im Mittelmeergebiet (hier Griechenland \u0096 Kreta), parasitär und saprophytisch (Folgezersetzer), Braunfäuleauslöser, einjährig"
+        "vorkommen": "An Tamarisken (TAMERIX) im Mittelmeergebiet (hier Griechenland  Kreta), parasitär und saprophytisch (Folgezersetzer), Braunfäuleauslöser, einjährig"
     },
     {
         "wissenschaftlicher_name": "GLOEOPHYLLUM ",
@@ -32950,7 +32950,7 @@
         "geschmack": "Mild, säuerlich",
         "fleisch": "Weiß, etwas stellenweiße bräunlich, mit gewunden, labyrinthartigen Falten, gekammert hohl. Junge Fruchtkörper scheiden beim Durchschneiden einen weißlichen Saft aus",
         "stiel": "Fehlt",
-        "vorkommen": "Mischwald, Parks, meist bei Nadelbäumen wie Tanne usw\u0085, vereinzelt auch bei Espe, Weide oder in südlichen Ländern bei Eukalyptusbäumen, oft nach der Schneeschmelze, Frühling bis Herbst, RL-R Deutschland (extrem selten)"
+        "vorkommen": "Mischwald, Parks, meist bei Nadelbäumen wie Tanne usw, vereinzelt auch bei Espe, Weide oder in südlichen Ländern bei Eukalyptusbäumen, oft nach der Schneeschmelze, Frühling bis Herbst, RL-R Deutschland (extrem selten)"
     },
     {
         "wissenschaftlicher_name": "HETEROBASIDION ABIETINUM",
@@ -33022,7 +33022,7 @@
         "geschmack": "Nach der Gärung angenehm kribbelnd, wie süßer Prosecco (Sekt), Most bis Essig. Auch eine Essigkomponente lässt die Wirksamkeit nicht vermindern",
         "fleisch": "Weißlich, gelblich, gelbbraun, gallertartig",
         "stiel": "Fehlt",
-        "vorkommen": "Kulturpilz. Stammt aus asiatischen Gebieten, Folgezersetzer, ganzjährig ab 21° C verwendbar. Wenn wegen Urlaub usw\u0085, der Pilz bei einer Raumtemperatur von nur 5-15 ° C gelagert wird, so schadet es ihm nicht. Das Pilzwachstum findet nur etwas langsamer statt"
+        "vorkommen": "Kulturpilz. Stammt aus asiatischen Gebieten, Folgezersetzer, ganzjährig ab 21° C verwendbar. Wenn wegen Urlaub usw, der Pilz bei einer Raumtemperatur von nur 5-15 ° C gelagert wird, so schadet es ihm nicht. Das Pilzwachstum findet nur etwas langsamer statt"
     },
     {
         "wissenschaftlicher_name": "EXIDIA PITHYA (SYN. TREMELLA AURICULA-JUDAE VAR. PITYA, TREMELLA OLIVACEONIGRA, EXIDIA FRIESIANA, EXIDIA PLANA VAR. PITYA, EXIDIA NIGRICANS VAR. PITHYA SENSU)",
@@ -33096,7 +33096,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Gelb, gelborange, sehr dünn, ohne Milchabsonderung",
         "stiel": "Sehr lang, ca. 2-5 mm lang, etwa 0,5 mm Ø breit, dem Becher (Kopfteil) gleichfarben, zylindrisch, glatt, auch fein flaumig, gerade bis teils auch etwas verbogen",
-        "vorkommen": "An dürren Zweigen und Nadeln von Thujen, Wacholder oder anderen Zypressengewächsen, sowie sehr selten auch Tannen- oder Kiefernnadeln, Folgezersetzer, Sommer bis Herbst, extrem selten, Rarität, nur wenige Funde in \u00d6sterreich, Frankreich und Deutschland."
+        "vorkommen": "An dürren Zweigen und Nadeln von Thujen, Wacholder oder anderen Zypressengewächsen, sowie sehr selten auch Tannen- oder Kiefernnadeln, Folgezersetzer, Sommer bis Herbst, extrem selten, Rarität, nur wenige Funde in Österreich, Frankreich und Deutschland."
     },
     {
         "wissenschaftlicher_name": "ENTOLOMA FRIDOLFINGENSE",
@@ -33355,7 +33355,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Weiß, grauweiß, blaugrau, fast korkartig weich",
         "stiel": "Fehlt, auf dem Substrat aufsitzend",
-        "vorkommen": "An totem Laubholz, gern Erlenäste, Stümpfe\u0085, Folgezersetzer, Frühling bis Spätherbst, extrem selten"
+        "vorkommen": "An totem Laubholz, gern Erlenäste, Stümpfe, Folgezersetzer, Frühling bis Spätherbst, extrem selten"
     },
     {
         "wissenschaftlicher_name": "HYGROPHORUS PENARIOIDES",
@@ -33436,7 +33436,7 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "Bräunlich",
-        "vorkommen": "Laubholz, Totholz, gern Weiden, Kirsche, Haselnuss, Espe\u0085, feuchtigkeitsliebend, Folgezersetzer, häufiger im Frühling, sehr selten, RL Schweiz (EN = stark gefährdet), RL3 Deutschland (gefährdet)"
+        "vorkommen": "Laubholz, Totholz, gern Weiden, Kirsche, Haselnuss, Espe, feuchtigkeitsliebend, Folgezersetzer, häufiger im Frühling, sehr selten, RL Schweiz (EN = stark gefährdet), RL3 Deutschland (gefährdet)"
     },
     {
         "wissenschaftlicher_name": "CLAVICORONA TAXOPHILA (SYN. ",
@@ -33533,7 +33533,7 @@
         "fleisch": "Weiß und perlmuttartig",
         "stiel": "9-20 cm lang, 6-17 (20) mm Ø dick, weiß mit Volva, diese auch fehlend, gefüllt, alt hohl, kein Ring",
         "lamellen": "Weiß, cremeweiß, +/- leichte bräunliche Töne, frei, relativ eng stehend, relativ dick",
-        "vorkommen": "Mehr Nadelwald bei Kiefern, auf sandigen Boden, in Deutschland (RL D zu wenig Daten), \u00d6sterreich, Schweiz extrem selten. In mediterranen Orten häufiger, Sommer bis Herbst"
+        "vorkommen": "Mehr Nadelwald bei Kiefern, auf sandigen Boden, in Deutschland (RL D zu wenig Daten), Österreich, Schweiz extrem selten. In mediterranen Orten häufiger, Sommer bis Herbst"
     },
     {
         "wissenschaftlicher_name": "AGARICUS MALEOLENS (SYN. ",
@@ -33585,7 +33585,7 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "Weiß bis gelblich, transparent, weich, etwas brüchig",
-        "stiel": "Fehlt, am Substrat Mist, Kot\u0085 aufsitzend",
+        "stiel": "Fehlt, am Substrat Mist, Kot aufsitzend",
         "vorkommen": "Auf Kot, Mist von Pflanzenfressern, Kühen, Schafe und Pferden, Folgezersetzer, Frühling bis Winter"
     },
     {
@@ -33627,7 +33627,7 @@
         "name": "Ulmen Pustelpilz",
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
-        "fleisch": "Rötlich-braun (\u0085bis zu dreifach septierten Ascosporen, 10-30 x 3-10 \u00b5m, Asci 60-90x 7-12\u00b5m, Konidien der Nebenfruchtform sind schmal zylindrisch bis elliptisch, Konidien der Nebenfruchtform 4-9x 1,5-2,9 \u00b5m sind schmal elliptische bis zylindrisch, +/- leicht gekrümmt)",
+        "fleisch": "Rötlich-braun (bis zu dreifach septierten Ascosporen, 10-30 x 3-10 µm, Asci 60-90x 7-12µm, Konidien der Nebenfruchtform sind schmal zylindrisch bis elliptisch, Konidien der Nebenfruchtform 4-9x 1,5-2,9 µm sind schmal elliptische bis zylindrisch, +/- leicht gekrümmt)",
         "vorkommen": "Laubhölzern, Wald- und Gartensträucher, meist auf Ulmen, Folgezersetzer, ganzjährig, selten"
     },
     {
@@ -33790,7 +33790,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Schwarz",
         "stiel": "Fehlt, im Substrat integriert",
-        "vorkommen": "An alter Rinde von Laubbäumen, gern Eiche, Buche, Espe, Birke, Erle\u0085, Folgezersetzer, ganzjährig, sehr selten"
+        "vorkommen": "An alter Rinde von Laubbäumen, gern Eiche, Buche, Espe, Birke, Erle, Folgezersetzer, ganzjährig, sehr selten"
     },
     {
         "wissenschaftlicher_name": "TRICHOLOMA LASCIVUM (SYN. AGARICUS LASCIVUS, GYROPHILA LASCIVA, TRICHOLOMA LASCIVUM VAR. ROBUSTUM, AGARICUS LASCIVUS VAR. ROBUSTUS)",
@@ -33912,7 +33912,7 @@
         "name": "Variabler Nabelschild",
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
-        "fleisch": "Grüngrau (13-15 x 5-6 \u00b5m)",
+        "fleisch": "Grüngrau (13-15 x 5-6 µm)",
         "vorkommen": "Auf lichtreiches und nährstoffreiches Gestein das oft von Vogel-Kot gedüngt wurde, Felsen, Granit, Silikatgestein, Schiefer, Quarz, Glimmer, Symbiosepilz, ganzjährig, selten"
     },
     {
@@ -34105,7 +34105,7 @@
         "name": "Verdrehtes Stummelfüßchen",
         "geruch": "Unbedeutend bis leicht pilzig, fruchtig",
         "geschmack": "Mild",
-        "hut": "1-2,5 (4) cm \u00b5m, weißlich, alt etwas grau, nierenförmig, muschelförmig, weich, wässerig, flach, gern verdreht, Huthaut weißlich-feinfilzig befasert, Rand glatt, weißfilzig",
+        "hut": "1-2,5 (4) cm µm, weißlich, alt etwas grau, nierenförmig, muschelförmig, weich, wässerig, flach, gern verdreht, Huthaut weißlich-feinfilzig befasert, Rand glatt, weißfilzig",
         "fleisch": "Weißlich, sehr dünn, zäh, etwas gallertartig",
         "stiel": "Sehr kurz, oft kaum wahrnehmbar, weißlich kahl bis leicht filzig behaart, am Substrat angewachsen",
         "lamellen": "Jung weißlich, cremebeige, später hell bräunlich, alt rosafarben bis kartonbraun, zur Anwachsstelle nur einige zusammenlaufend, mäßig gedrängt, Schneide fein weißlich bewimpert",
@@ -34836,7 +34836,7 @@
         "geschmack": "Mild, roh giftig",
         "fleisch": "Weißlich, hellgrau, brüchig, dünn",
         "stiel": "2-5 cm lang, ca. 0.3-1,5 cm Ø dick, rußbraun, schwarz, Basis weißlich, braun- bis rosafleckig, gänzlich längsgefurcht, hohl mit einzelnen Kammern, charakteristisch ist die Rötung an der untersten Basis",
-        "vorkommen": "Mischwald, Wegrändern, meist bei Wacholder (deswegen Namensgebend Juniperus), selten bei anderen Begleitbäume oder Büsche, gern auf nassen Sandboden mit Moos, Folgezersetzer, häufiger in mediterranen Gebieten, wärmeliebend, häufiger in mediterranen Gebieten, Frühsommer bis Spätherbst, extrem selten in Deutschland, \u00d6sterreich und Schweiz"
+        "vorkommen": "Mischwald, Wegrändern, meist bei Wacholder (deswegen Namensgebend Juniperus), selten bei anderen Begleitbäume oder Büsche, gern auf nassen Sandboden mit Moos, Folgezersetzer, häufiger in mediterranen Gebieten, wärmeliebend, häufiger in mediterranen Gebieten, Frühsommer bis Spätherbst, extrem selten in Deutschland, Österreich und Schweiz"
     },
     {
         "wissenschaftlicher_name": "MYCENA JUNIPERINA",
@@ -34931,7 +34931,7 @@
         "hut": "1-8 (12) cm Ø, hellbraun, graugelb, grauorange, rosagrau, braunrot, Randzone heller, dachziegelartig übereinander zusammenwachsend",
         "fleisch": "Graubraun, grauorange, zäh, hart",
         "stiel": "Fehlt, am Substrat angewachsen",
-        "vorkommen": "Totem Laubholz, Äste, Stümpfe, meist Rotbuche, auch Hasel, Hainbuche, Esche, Vogelkirsche\u0085, Folgezersetzer, Weißfäuleauslöser, ganzjährig (Hauptzeit Spätherbst)"
+        "vorkommen": "Totem Laubholz, Äste, Stümpfe, meist Rotbuche, auch Hasel, Hainbuche, Esche, Vogelkirsche, Folgezersetzer, Weißfäuleauslöser, ganzjährig (Hauptzeit Spätherbst)"
     },
     {
         "wissenschaftlicher_name": "GALERINA HYPNORUM (SYN. GALERA CALYPTROSPORA, GALERA HYPNORUM, GALERA HYPNORUM VAR. UMBONATA, GALERA ",
@@ -35206,7 +35206,7 @@
         "fleisch": "Weiß, anfänglich etwas rötend, später oder bei Verletzung dunkelgrau verfärbend, meist von der Stielbasis, später vom Hutrand ausgehend schwärzend, hart und brüchig",
         "stiel": "2-9 (12) cm lang, 2-4 (5) cm Ø breit, weißlich, Stielrinde bei Verletzung oder im Alter stark grauend, zur Basis mit blassrosa gefleckt, darunter etwas gelblich, gelbbraun, zylindrisch",
         "lamellen": "Cremefarben bis ockergelb, vom Rand aus schwärzend, leicht ausgebuchtet angewachsen, einige gegabelt, mit Zwischenlamellen, auch mit Querlamellen (Anastomosen) am Lamellengrund",
-        "vorkommen": "Laubwald, Eiche, gern Zerreiche (OUERCUS CERRIS) und Liguster (LIGUSTRUM VULGARE), im sauren und kalkreichen, lehmigen Boden, wärmeliebend, häufiger in mediterranen Gebieten aber auch Funde in \u00d6sterreich und Tschechien sind bekannt, Sommer bis Spätherbst, selten"
+        "vorkommen": "Laubwald, Eiche, gern Zerreiche (OUERCUS CERRIS) und Liguster (LIGUSTRUM VULGARE), im sauren und kalkreichen, lehmigen Boden, wärmeliebend, häufiger in mediterranen Gebieten aber auch Funde in Österreich und Tschechien sind bekannt, Sommer bis Spätherbst, selten"
     },
     {
         "wissenschaftlicher_name": "CORTINARIUS TRANSIENS (SYN. ",
@@ -35226,7 +35226,7 @@
         "name": "Wechselfarbiger Speitäubling",
         "geruch": "Obstartig, süßlich, fruchtig, bonbonartig, kokosnussartig",
         "geschmack": "Extrem scharf",
-        "hut": "2-6 (7) cm Ø, sehr variable Farben: Rosa, fleischbraun, ockerlich, lilaviolett, violettrosa, violett, purpurrot, olivgrün, grünlich, auch fast weiß (die Varietät: RUSSULA FRAGILIS VAR. NIVEA), Rand gerieft, wellig und höckerig, Mitte eingedellt, trichterförmig, im Alter dunkler gefärbt, Huthaut gut zu \u00be abziehbar",
+        "hut": "2-6 (7) cm Ø, sehr variable Farben: Rosa, fleischbraun, ockerlich, lilaviolett, violettrosa, violett, purpurrot, olivgrün, grünlich, auch fast weiß (die Varietät: RUSSULA FRAGILIS VAR. NIVEA), Rand gerieft, wellig und höckerig, Mitte eingedellt, trichterförmig, im Alter dunkler gefärbt, Huthaut gut zuabziehbar",
         "fleisch": "Weiß, brüchig, relativ weich",
         "stiel": "2-11 (13) cm lang, 0,5-1,6 (1,8) cm Ø dick, weißlich, später gilbend, weich, zerbrechlich, meist voll bis höchstens alt etwas ausgestopft, schwach keulenförmig",
         "lamellen": "Weiß, bauchig, gedrängt, ausgebuchtet angewachsen, Schneiden oft wellig, gesägt",
@@ -35238,7 +35238,7 @@
         "name": "Wechselhafte Napfflechte",
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
-        "fleisch": "Graubraun (7-12 x 3-4 \u00b5m)",
+        "fleisch": "Graubraun (7-12 x 3-4 µm)",
         "vorkommen": "Auf saurer Baumrinde von Nadelbäumen, seltener an Laubbäumen, selten auch an Bauholz, Zäune, Holzhäuseraußenseiten, Symbiosepilz, ganzjährig"
     },
     {
@@ -35312,7 +35312,7 @@
         "name": "Weichlicher Stäubling",
         "geruch": "Würzig pilzig",
         "geschmack": "Mild, angenehm pilzig",
-        "vorkommen": "Almwiesen, Laubwald, Bergmischwald, Tanne, Fichte, Buche, Bergahorn\u0085, wie auch der Birnenstäubling, nicht büschelig, auf mäßig sauren, trockenen und feuchten Böden wachsend, Folgezersetzer, Frühsommer bis Spätherbst"
+        "vorkommen": "Almwiesen, Laubwald, Bergmischwald, Tanne, Fichte, Buche, Bergahorn, wie auch der Birnenstäubling, nicht büschelig, auf mäßig sauren, trockenen und feuchten Böden wachsend, Folgezersetzer, Frühsommer bis Spätherbst"
     },
     {
         "wissenschaftlicher_name": "CORTINARIUS EMOLLITUS (SYN. ",
@@ -35448,7 +35448,7 @@
         "fleisch": "Weiß, schmutzig weißlich, etwas grauend, brüchig",
         "stiel": "3-8 (11) cm lang, 1,3-2,5 (2,8) cm Ø dick, relativ schlank, weiß, später grau oder bräunlich, niemals gilbend, etwas runzelig, zylindrisch, leicht keulig, Basis zugespitzt",
         "lamellen": "Hellgelb, alt ockergelb bis goldgelb, angewachsen, fast bauchig, gedrängt stehend mit einigen Gabelungen, bauchig angewachsen",
-        "vorkommen": "Laubwald, unter Eichen, Hainbuchen, Buchen\u0085, kalkreichen Boden, Frühsommer bis Spätherbst, sehr selten, RL2 Deutschland (stark gefährdet), Regional auch häufiger"
+        "vorkommen": "Laubwald, unter Eichen, Hainbuchen, Buchen, kalkreichen Boden, Frühsommer bis Spätherbst, sehr selten, RL2 Deutschland (stark gefährdet), Regional auch häufiger"
     },
     {
         "wissenschaftlicher_name": "RUSSULA VINOSA (SYN. RUSSULA OBSCURA)",
@@ -35559,7 +35559,7 @@
         "geruch": "Leicht säuerlich herb",
         "geschmack": "Bitter",
         "fleisch": "Weiß, marmoriert, bei Verletzung weinrot, purpurgrau bis rötlichgrau verfärbend",
-        "vorkommen": "Nadelwald, gern im Gebirge, an moosigen grasigen feuchten Stellen, kalkreichen Boden, Sommer bis Herbst, selten in Deutschland, häufiger in Tirol (\u00d6sterreich), sehr selten, RL Schweiz (EN = stark gefährdet), RL-R Deutschland (extrem selten)"
+        "vorkommen": "Nadelwald, gern im Gebirge, an moosigen grasigen feuchten Stellen, kalkreichen Boden, Sommer bis Herbst, selten in Deutschland, häufiger in Tirol (Österreich), sehr selten, RL Schweiz (EN = stark gefährdet), RL-R Deutschland (extrem selten)"
     },
     {
         "wissenschaftlicher_name": "CORTINARIUS PRAESTIGIOSUS (SYN",
@@ -35945,7 +35945,7 @@
         "name": "Weißer Knollenblätterpilz",
         "geruch": "Geruchlos, süßlich, honigartig oder aasartig",
         "geschmack": "Mild, würzig, angenehm - niemals Kostversuche wegen Leberschädigung!",
-        "hut": "3-12 (15) cm Ø, weißlich, nicht gerieft, radialfaserig, jung \u00b1 halbkugelig bis konvex, später flach ausgebreitet, +/- mit spärlichen, weißen Velumresten. Bei Wulstlingen, Knollenblätterpilzen und Streiflingen ist die Huthaut tortenstückförmig bis zur Mitte abziehbar. Habitus jung eierförmig, halbkugelig, alt konvex, jung häufiger mit Velumresten am Hutrand",
+        "hut": "3-12 (15) cm Ø, weißlich, nicht gerieft, radialfaserig, jung ± halbkugelig bis konvex, später flach ausgebreitet, +/- mit spärlichen, weißen Velumresten. Bei Wulstlingen, Knollenblätterpilzen und Streiflingen ist die Huthaut tortenstückförmig bis zur Mitte abziehbar. Habitus jung eierförmig, halbkugelig, alt konvex, jung häufiger mit Velumresten am Hutrand",
         "fleisch": "Weiß, unter der Huthaut gelbgrünlich, Trama brüchig, keine Verfärbung beim Durchschneiden",
         "stiel": "5-12 (15) cm lang, 1-3 (6) cm Ø, weiß, faserig, fein genattert, nur mit angedrückten Velumschüppchen, voll, Basis zwiebelknollig, gerandet die in einer häutigen, sackartigen Scheide steckt. Spitze ist meist relativ leicht vom Hutfleisch abtrennbar",
         "lamellen": "Weiß, frei bis +/- fein angewachsen, relativ eng stehend",
@@ -36284,7 +36284,7 @@
         "geschmack": "Unbedeutend",
         "fleisch": "Weiß bis hellgelb, transparent, wachsartig-gallertig",
         "stiel": "Fehlt oder nur angedeutet kegelförmig, auf dem Substrat aufliegend (trocken konkav einsinkend)",
-        "vorkommen": "Gern liegendes entrindetes Totholz, gern Auwälder, Weiden usw\u0085, Folgezersetzer, Frühling bis Herbst"
+        "vorkommen": "Gern liegendes entrindetes Totholz, gern Auwälder, Weiden usw, Folgezersetzer, Frühling bis Herbst"
     },
     {
         "wissenschaftlicher_name": "CERATIOMYXA FRUTICULOSA VAR. PORIOIDES (SYN. CERATIOMYXA FRUTICULOSA VAR. PERIOIDES, CERATIOMYXA PROTOSTELIA) ",
@@ -36321,11 +36321,11 @@
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
         "fleisch": "Weißlich, kristallin",
-        "stiel": "Länge 0,6-0,9 mm, Ø ca. 0,02 mm (bis ca. 50 \u00b5m), schwarz, Spitze weißlich, stark behaart",
+        "stiel": "Länge 0,6-0,9 mm, Ø ca. 0,02 mm (bis ca. 50 µm), schwarz, Spitze weißlich, stark behaart",
         "vorkommen": "An Fichtennadeln, gerne in Verbindung mit stark zersetztem Holz, Folgezersetzer, Frühling bis Spätherbst"
     },
     {
-        "wissenschaftlicher_name": "PHELLINUS PINI, XYLOBOLUS FRUSTULATUS\u0085 ALS BEISPIELE\u0085 SPEC\u0085",
+        "wissenschaftlicher_name": "PHELLINUS PINI, XYLOBOLUS FRUSTULATUS ALS BEISPIELE SPEC",
         "speisewert": "F - ungenießbar",
         "name": "Weißfäule",
         "geruch": "Neutral",
@@ -37100,7 +37100,7 @@
         "name": "Windbartflechte",
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
-        "fleisch": "Graugrün (6-14 x 2-7 \u00b5m, ?)",
+        "fleisch": "Graugrün (6-14 x 2-7 µm, ?)",
         "vorkommen": "Alpine Lagen, windexponierten Magerrasen und zwischen Zwergstrauchheiden, auf dem Boden wachsend, selten auch zwischen Felsblöcken, Symbiosepilz, ganzjährig"
     },
     {
@@ -37170,7 +37170,7 @@
         "geruch": "Aromatisch pilzig nach Muskatnuss, etwas marzipanartig, moschusartig, fermentiertes Obst, Bitterhefe, Haselnüsse",
         "geschmack": "Mild angenehm auch roh",
         "fleisch": "Erst weiß, bei Reife graubraun, später schwarzbraun mit weißlichen labyrinthischen Adern, alt ganz schwarz, nicht verfärbend, Adern immer weiß verbleibend",
-        "vorkommen": "Meist Laubwald, gern Haselnuss, Eiche und Linde auf kalkreichen Boden in südlichen Ländern, Italien, Frankreich, Türkei, Spanien, Albanien, Ungarn, selten in \u00d6sterreich und Deutschland, sehr wärmeliebend, Symbiosepilz, Winter, RL3 Deutschland (gefährdet)"
+        "vorkommen": "Meist Laubwald, gern Haselnuss, Eiche und Linde auf kalkreichen Boden in südlichen Ländern, Italien, Frankreich, Türkei, Spanien, Albanien, Ungarn, selten in Österreich und Deutschland, sehr wärmeliebend, Symbiosepilz, Winter, RL3 Deutschland (gefährdet)"
     },
     {
         "wissenschaftlicher_name": "MYCENA POLYADELPHA (SYN. AGARICUS POLYADELPHUS, OMPHALIA POLYADELPHA, ANDROSACEUS POLYADELPHUS, MARASMIUS POLYADELPHUS, DELICATULA POLYADELPHA, AGARICUS POLYADELPHUS VAR. MICROSCOPICUS, OMPHALINA POLYADELPHA) ",
@@ -37201,7 +37201,7 @@
         "speisewert": "Giftig",
         "name": "Winziger Glockenschüppling",
         "geruch": "Unbedeutend, leicht süßlich, etwas nach Geranien (Pelargonie)",
-        "geschmack": "Mild, süßlich, bitte keine Kostversuche\u0085 verdächtig giftig",
+        "geschmack": "Mild, süßlich, bitte keine Kostversuche verdächtig giftig",
         "hut": "1-1,5 (2,5) cm Ø, ockerbraun, beigebraun, hellbraun, orangebraun, selten auch etwas rosaocker bis rosabraun, dünnfleischig, schwach hygrophan, Rand feucht bis fast zur Mitte gerieft,dunkler streifig",
         "fleisch": "Ockerlich, hellgelb, transparent, dünn, faserig",
         "stiel": "1-3 (4) cm breit, 1-1,5 (2,5) mm Ø dick, stark bereift auf gelbem, gelbbraunem bis olivbraunen Untergrund, faserig, zylindrisch, schnelle hohl",
@@ -37577,7 +37577,7 @@
         "name": "Wurzelnder Kräuterhelmling",
         "geruch": "Unbedeutend",
         "geschmack": "Mild",
-        "hut": "1-1,5 (2) cm Ø, bräunlich, rotbräunlich, dunkel olivbraun, hygrophan, entwässert blass graubraun, frisch zu \u00be durchscheinend gerieft, Mitte dunkler, oft leicht gebuckelt (Papille Hutmitte) und speckig glänzend",
+        "hut": "1-1,5 (2) cm Ø, bräunlich, rotbräunlich, dunkel olivbraun, hygrophan, entwässert blass graubraun, frisch zudurchscheinend gerieft, Mitte dunkler, oft leicht gebuckelt (Papille Hutmitte) und speckig glänzend",
         "fleisch": "Hellbraun bis wässerig dunkelbraun",
         "stiel": "2-4 (5) cm lang, 0,1-0,2 (0,3) cm Ø dick, rotbraun, hellbraun, durchsichtig, zylindrisch, weiß striegelig, matt, feinst längsfaserig, mit extremen Scheinwurzeln, auch filzig vom Myzel umgeben, Spitze cremeweißlich bis cremegrau, stielabwärts immer dunkler graubraun bis olivbraun",
         "lamellen": "Weißlich, hell graubraun bis mittelgrau, schwach ausgebuchtet und breit mit Zahn angewachsen, entfernt stehend, bis ca. 25 erreichen den Stiel, Zwischenlamellen, Schneiden fein weißflockig",
@@ -37791,7 +37791,7 @@
         "fleisch": "Weißlich, schmutzig-weiß",
         "stiel": "Weißlich bis blass ockerlich, bereift, Spitze heller, Basis mit gerandeter Knolle",
         "lamellen": "Graubeige, rötlichgrau, gelbbraun, bauchig, schmal angeheftet",
-        "vorkommen": "Fast nur bei Laubbäumen wie Esche, Buche, Birke\u0085, gern auf kalkreichen, sandig-lehmigen Boden, Symbiosepilz, Frühling bis Herbst, meist selten"
+        "vorkommen": "Fast nur bei Laubbäumen wie Esche, Buche, Birke, gern auf kalkreichen, sandig-lehmigen Boden, Symbiosepilz, Frühling bis Herbst, meist selten"
     },
     {
         "wissenschaftlicher_name": "CLADONIA CILIATA (SYN",
@@ -38066,7 +38066,7 @@
         "name": "Ziegelroter Rindenpilz",
         "geruch": "Neutral",
         "geschmack": "Unbedeutend",
-        "fleisch": "Weißlich, grauweiß bis gelblich. sehr dünn, oft nur 50-100 \u00b5m dick, jedoch fest mit dem Substrat verbunden",
+        "fleisch": "Weißlich, grauweiß bis gelblich. sehr dünn, oft nur 50-100 µm dick, jedoch fest mit dem Substrat verbunden",
         "stiel": "Fehlt, flach resupinat auf dem Substrat Holz oder alter Baumpilz aufliegend",
         "vorkommen": "Laubholz: An Stümpfe, Rinde, Ästen, Zweigen, Folgezersetzer, ganzjährig"
     },
@@ -38076,7 +38076,7 @@
         "name": "Ziegelroter Risspilz",
         "geruch": "Spermatisch oder obstartig",
         "geschmack": "Mild, fruchtig, aber eher unangenehm",
-        "hut": "2-7 (9) cm Ø, jung geschlossen weißlich, später, gelbbraun, ockerbraun, rotbraun, ziegelrot, kegelig gebuckelt, radialfaserig, erst beim \u00d6ffnen reißt die Huthaut auf",
+        "hut": "2-7 (9) cm Ø, jung geschlossen weißlich, später, gelbbraun, ockerbraun, rotbraun, ziegelrot, kegelig gebuckelt, radialfaserig, erst beim Öffnen reißt die Huthaut auf",
         "fleisch": "Weiß, rot verfärbend",
         "stiel": "3-10 (12) cm lang, 0,8-2,2 (2,6) cm Ø dick, weiß, schmutzigweiß, graubraun, später rötlich anlaufend, zylindrisch, zur Basis leicht verdickt",
         "lamellen": "Weißlich, schmutzig-weißlich, rosa, später rötlich verfärbend, alt olivbraun, Schneiden heller",
@@ -38436,7 +38436,7 @@
         "hut": "3-8 (11) cm Ø, rehbraun, gelbbraun, olivegelb, schmierig, faserig punktiert",
         "fleisch": "Weißlich bis blass gelb, safrangelb, Spitze zitronengelb, Basis rötlichbraun, im Stiel bräunend",
         "stiel": "Hellbraun, oliv-ockerbraun",
-        "vorkommen": "Gebirge mit natürlichen Zirben Vorkommen, kalkreichen Boden, gern bei Heidelbeeren, Symbiosepilz zur Zirbelkiefer, Arven\u0085), Frühsommer bis Herbst, selten, RL Schweiz (VU = verletzlich), RL-R Deutschland (extrem selten)"
+        "vorkommen": "Gebirge mit natürlichen Zirben Vorkommen, kalkreichen Boden, gern bei Heidelbeeren, Symbiosepilz zur Zirbelkiefer, Arven), Frühsommer bis Herbst, selten, RL Schweiz (VU = verletzlich), RL-R Deutschland (extrem selten)"
     },
     {
         "wissenschaftlicher_name": "HEBELOMA CISTOPHILUM (SYN. ",
@@ -38491,7 +38491,7 @@
     {
         "wissenschaftlicher_name": "OTIDEA CANTHARELLA (SYN. OTIDEA CONCINNA, FLAVOSCYPHA CANTHARELLA, ",
         "speisewert": "F - ungenießbar",
-        "name": "Zitronengelber \u00d6hrling",
+        "name": "Zitronengelber Öhrling",
         "geruch": "Neutral, unbedeutend",
         "geschmack": "Mild",
         "fleisch": "Weißlich, zerbrechlich",
@@ -39035,7 +39035,7 @@
         "geschmack": "Mild",
         "fleisch": "Weiß, später braun bis olivlichbraun, mit 1 mm großen Kammern",
         "stiel": "Fehlt",
-        "vorkommen": "Grasige Stelle, gern bei Zwergweiden, gern höheren Lagen, Alpinen Gebieten \u00d6sterreichs, Folgezersetzer, Sommer bis Herbst, selten, RL Schweiz (VU = verletzlich)"
+        "vorkommen": "Grasige Stelle, gern bei Zwergweiden, gern höheren Lagen, Alpinen Gebieten Österreichs, Folgezersetzer, Sommer bis Herbst, selten, RL Schweiz (VU = verletzlich)"
     },
     {
         "wissenschaftlicher_name": "LEUCOCOPRINUS CEPISTIPES (SYN. ",
@@ -39063,7 +39063,7 @@
         "fleisch": "Wässrig braun, ockerbraun, hellbraun im Hut, an der Stielbasis dunkler rotbraun, dünn",
         "stiel": "1-3,6 (4) cm lang, 1-2 (2,5) mm Ø, weißlich, abwärts +/- bräunlich, etwas faserig-flockig, in der oberen Hälfte bereift, Basis leicht verdickt",
         "lamellen": "Braun, honigbraun, lehmbraun, karamellfarbig, bauchig, kurz angeheftet, fast frei wirkend, Schneiden meist fein gesägt und weißflockig",
-        "vorkommen": "Mischwald, gern Laubwald, Eichen, Buchen\u0085, an Totholz, auch auf vergrabenem Holz am Boden oder im Laubstreu, gesellig, Folgezersetzer, Frühsommer bis Herbst, sehr selten"
+        "vorkommen": "Mischwald, gern Laubwald, Eichen, Buchen, an Totholz, auch auf vergrabenem Holz am Boden oder im Laubstreu, gesellig, Folgezersetzer, Frühsommer bis Herbst, sehr selten"
     },
     {
         "wissenschaftlicher_name": "OCHROLECHIA ANDROGYNA (SYN. OCHROLECHIA ANDROGYNA VAR. SAXORUM)",

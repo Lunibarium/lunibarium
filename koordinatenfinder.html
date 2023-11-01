@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
   <style>
@@ -7,49 +8,103 @@
       height: 400px;
       cursor: crosshair;
     }
+
+    body {
+      overflow-x: hidden;
+      word-break: break-all;
+    }
+
+    /* Define the CSS for the custom icon */
+    .emoji-icon {
+      font-size: 24px;
+      text-align: center;
+      line-height: 1.2;
+      width: 24px;
+      height: 24px;
+      background-color: #ff5722;
+      /* Customize background color */
+      color: #ffffff;
+      /* Customize text color */
+      border-radius: 50%;
+      cursor: crosshair;
+    }
   </style>
 </head>
+
 <body>
   <div id="map"></div>
-  <div id="coordinates"></div>
-  <a id="copy" href="#">Koordinaten kopieren</a>
+  <div><pre id="coordinates"></pre></div>
+  <a id="copy" href="#">iframe kopieren</a>
 
   <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
   <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"></script>
   <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 </body>
+
 </html>
 
 <script>
-  let coords = [0,0];
-  // Initialize the map
-  let map = L.map('map').setView([0, 0], 2); // Set the initial center and zoom level
+  let coords = [0, 0];
+  var map = L.map('map').setView([51.6551819, 10.1192958], 10);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
   }).addTo(map);
 
-  let marker; // Variable to store the marker
-
-  // Click event handler for placing and moving the marker
-  map.on('click', function(e) {
-    let latlng = e.latlng;
-
-    if (marker) {
-      // If a marker already exists, move it to the new click location
-      marker.setLatLng(latlng);
-    } else {
-      // If no marker exists, create a new one
-      marker = L.marker(latlng).addTo(map);
-    }
-
-    // Display the coordinates below the map
-    document.getElementById('coordinates').innerHTML = 'Latitude: ' + latlng.lat + '<br>Longitude: ' + latlng.lng;
-    coords[0] = latlng.lat;
-    coords[1] = latlng.lng;
+  var customIcon = L.divIcon({
+    className: 'emoji-icon',
+    html: '🍄', // Customize with your desired ASCII text (emoji)
   });
 
-  document.getElementById("copy").addEventListener('click', function(e) {
-    let text = `${coords[0]},${coords[1]}`;
+  var markers = []; // To store the markers
+
+  // Click event handler for placing or removing markers
+  map.on('click', function (e) {
+    var latlng = e.latlng;
+    var existingMarker = findMarker(latlng);
+
+    if (existingMarker) {
+      // If a marker already exists at this location, remove it
+      map.removeLayer(existingMarker);
+      markers = markers.filter(marker => marker !== existingMarker);
+    } else {
+      // If no marker exists at this location, create a new one
+      var newMarker = L.marker(latlng, { icon: customIcon }).addTo(map);
+      newMarker.on('click', function () {
+        // Remove the marker when it is clicked
+        map.removeLayer(newMarker);
+        markers = markers.filter(marker => marker !== newMarker);
+        updateCoordinatesList();
+      });
+      markers.push(newMarker);
+    }
+
+    // Update the list of coordinates
+    updateCoordinatesList();
+  });
+
+  function findMarker(latlng) {
+    // Find a marker at a given latlng
+    for (var i = 0; i < markers.length; i++) {
+      if (markers[i].getLatLng().equals(latlng)) {
+        return markers[i];
+      }
+    }
+    return null;
+  }
+
+  function updateCoordinatesList() {
+    var iframe = document.getElementById('coordinates');
+    let res = [];
+    markers.forEach(function (marker, index) {
+      var coordinates = marker.getLatLng();
+      res.push(`${coordinates.lat},${coordinates.lng}`);
+    });
+
+    iframe.innerText = `<iframe src="map.html#${res.join('|')}" style="width: 100% !important; height: 400px !important;"></iframe>`;
+  }
+
+  document.getElementById("copy").addEventListener('click', function (e) {
+    let text = document.getElementById("coordinates").innerText;
     window.navigator.clipboard.writeText(text);
   });
 </script>
