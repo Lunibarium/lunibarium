@@ -5,3 +5,4 @@
 [Wildkräutertagebuch](ktagebuch.md)
 [Wiki](wiki.md)
 [Rezepte](rezepte.md)
+[Hilfe](hilfe.md)

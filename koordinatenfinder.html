@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <style>
+    #map {
+      height: 400px;
+      cursor: crosshair;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <div id="coordinates"></div>
+  <a id="copy" href="#">Koordinaten kopieren</a>
+
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"></script>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+</body>
+</html>
+
+<script>
+  let coords = [0,0];
+  // Initialize the map
+  let map = L.map('map').setView([0, 0], 2); // Set the initial center and zoom level
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+  }).addTo(map);
+
+  let marker; // Variable to store the marker
+
+  // Click event handler for placing and moving the marker
+  map.on('click', function(e) {
+    let latlng = e.latlng;
+
+    if (marker) {
+      // If a marker already exists, move it to the new click location
+      marker.setLatLng(latlng);
+    } else {
+      // If no marker exists, create a new one
+      marker = L.marker(latlng).addTo(map);
+    }
+
+    // Display the coordinates below the map
+    document.getElementById('coordinates').innerHTML = 'Latitude: ' + latlng.lat + '<br>Longitude: ' + latlng.lng;
+    coords[0] = latlng.lat;
+    coords[1] = latlng.lng;
+  });
+
+  document.getElementById("copy").addEventListener('click', function(e) {
+    let text = `${coords[0]},${coords[1]}`;
+    window.navigator.clipboard.writeText(text);
+  });
+</script>
