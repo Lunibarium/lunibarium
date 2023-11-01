@@ -4,3 +4,4 @@
 ### [Wildkräutertagebuch](ktagebuch.md)
 ### [Wiki](wiki.md)
 ### [Rezepte](rezepte.md)
+### [Suche](suche.html)

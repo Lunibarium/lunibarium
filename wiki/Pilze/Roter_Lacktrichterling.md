@@ -14,7 +14,7 @@ Roter Lacktrichterling
 | Gattung | Lacktrichterlinge (Laccaria) |
 
 # Rezepte
-- [Spaghetti mit Parasolpilz und Lacktrichterlingen](lunibarium/index.html#!rezepte.md#Spaghetti_mit_Parasolpilz_und_Lacktrichterlingen)
+- [Spaghetti mit Parasolpilz und Lacktrichterlingen](index.html#!rezepte.md#Spaghetti_mit_Parasolpilz_und_Lacktrichterlingen)
 
 # Weiterführende Infos
 - Dähncke, R. M. (2004), S. 184
@@ -22,4 +22,4 @@ Roter Lacktrichterling
 - [wikipedia.de](https://de.wikipedia.org/wiki/R%C3%B6tlicher_Lacktrichterling)
 
 # Fundort
-<iframe src="/lunibarium/map.html#51.651262,10.105047" style="width: 100% !important; height: 400px !important;"></iframe>
+<iframe src="map.html#51.651262,10.105047" style="width: 100% !important; height: 400px !important;"></iframe>
